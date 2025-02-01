@@ -1,0 +1,1883 @@
+{
+  "platform": "android",
+  "date": "2025-01-29",
+  "test": "2wielerspecialist_nl",
+  "url": "https://2wielerspecialist.nl/",
+  "url_content_traits": {
+    "compression-dictionary": 0,
+    "dns-prefetch": 1,
+    "google-publisher-tag": 0,
+    "preconnect": 1,
+    "prefetch": 0,
+    "preload": 1,
+    "prerender": 0
+  },
+  "video_side_by_side": "2025-01-29-android-2wielerspecialist_nl-side-by-side.mp4",
+  "firefox": {
+    "filmstrip_interval": 100,
+    "filmstrip": {
+      "00000": "2025-01-29-android-2wielerspecialist_nl-firefox_00000.webp",
+      "00100": "2025-01-29-android-2wielerspecialist_nl-firefox_00100.webp",
+      "00200": "2025-01-29-android-2wielerspecialist_nl-firefox_00200.webp",
+      "00300": "2025-01-29-android-2wielerspecialist_nl-firefox_00300.webp",
+      "00400": "2025-01-29-android-2wielerspecialist_nl-firefox_00400.webp",
+      "00500": "2025-01-29-android-2wielerspecialist_nl-firefox_00500.webp",
+      "00600": "2025-01-29-android-2wielerspecialist_nl-firefox_00600.webp",
+      "00700": "2025-01-29-android-2wielerspecialist_nl-firefox_00700.webp",
+      "00800": "2025-01-29-android-2wielerspecialist_nl-firefox_00800.webp",
+      "00900": "2025-01-29-android-2wielerspecialist_nl-firefox_00900.webp",
+      "01000": "2025-01-29-android-2wielerspecialist_nl-firefox_01000.webp",
+      "01100": "2025-01-29-android-2wielerspecialist_nl-firefox_01100.webp",
+      "01200": "2025-01-29-android-2wielerspecialist_nl-firefox_01200.webp",
+      "01300": "2025-01-29-android-2wielerspecialist_nl-firefox_01300.webp",
+      "01400": "2025-01-29-android-2wielerspecialist_nl-firefox_01400.webp",
+      "01500": "2025-01-29-android-2wielerspecialist_nl-firefox_01500.webp",
+      "01600": "2025-01-29-android-2wielerspecialist_nl-firefox_01600.webp",
+      "01700": "2025-01-29-android-2wielerspecialist_nl-firefox_01700.webp",
+      "01800": "2025-01-29-android-2wielerspecialist_nl-firefox_01800.webp",
+      "01900": "2025-01-29-android-2wielerspecialist_nl-firefox_01900.webp",
+      "02000": "2025-01-29-android-2wielerspecialist_nl-firefox_02000.webp",
+      "02100": "2025-01-29-android-2wielerspecialist_nl-firefox_02100.webp",
+      "02200": "2025-01-29-android-2wielerspecialist_nl-firefox_02200.webp",
+      "02300": "2025-01-29-android-2wielerspecialist_nl-firefox_02300.webp",
+      "02400": "2025-01-29-android-2wielerspecialist_nl-firefox_02400.webp",
+      "02500": "2025-01-29-android-2wielerspecialist_nl-firefox_02500.webp",
+      "02600": "2025-01-29-android-2wielerspecialist_nl-firefox_02600.webp",
+      "02700": "2025-01-29-android-2wielerspecialist_nl-firefox_02700.webp",
+      "02800": "2025-01-29-android-2wielerspecialist_nl-firefox_02800.webp",
+      "02900": "2025-01-29-android-2wielerspecialist_nl-firefox_02900.webp",
+      "03000": "2025-01-29-android-2wielerspecialist_nl-firefox_03000.webp",
+      "03100": "2025-01-29-android-2wielerspecialist_nl-firefox_03100.webp",
+      "03200": "2025-01-29-android-2wielerspecialist_nl-firefox_03200.webp",
+      "03300": "2025-01-29-android-2wielerspecialist_nl-firefox_03300.webp",
+      "03400": "2025-01-29-android-2wielerspecialist_nl-firefox_03400.webp",
+      "03500": "2025-01-29-android-2wielerspecialist_nl-firefox_03500.webp",
+      "03600": "2025-01-29-android-2wielerspecialist_nl-firefox_03600.webp",
+      "03700": "2025-01-29-android-2wielerspecialist_nl-firefox_03700.webp",
+      "03800": "2025-01-29-android-2wielerspecialist_nl-firefox_03800.webp",
+      "03900": "2025-01-29-android-2wielerspecialist_nl-firefox_03900.webp",
+      "04000": "2025-01-29-android-2wielerspecialist_nl-firefox_04000.webp",
+      "04100": "2025-01-29-android-2wielerspecialist_nl-firefox_04100.webp",
+      "04200": "2025-01-29-android-2wielerspecialist_nl-firefox_04200.webp",
+      "04300": "2025-01-29-android-2wielerspecialist_nl-firefox_04300.webp",
+      "04400": "2025-01-29-android-2wielerspecialist_nl-firefox_04400.webp",
+      "04500": "2025-01-29-android-2wielerspecialist_nl-firefox_04500.webp",
+      "04600": "2025-01-29-android-2wielerspecialist_nl-firefox_04600.webp",
+      "04700": "2025-01-29-android-2wielerspecialist_nl-firefox_04700.webp",
+      "04800": "2025-01-29-android-2wielerspecialist_nl-firefox_04800.webp",
+      "04900": "2025-01-29-android-2wielerspecialist_nl-firefox_04900.webp",
+      "05000": "2025-01-29-android-2wielerspecialist_nl-firefox_05000.webp",
+      "05100": "2025-01-29-android-2wielerspecialist_nl-firefox_05100.webp",
+      "05200": "2025-01-29-android-2wielerspecialist_nl-firefox_05200.webp",
+      "05300": "2025-01-29-android-2wielerspecialist_nl-firefox_05300.webp",
+      "05400": "2025-01-29-android-2wielerspecialist_nl-firefox_05400.webp",
+      "05500": "2025-01-29-android-2wielerspecialist_nl-firefox_05500.webp",
+      "05600": "2025-01-29-android-2wielerspecialist_nl-firefox_05600.webp",
+      "05700": "2025-01-29-android-2wielerspecialist_nl-firefox_05700.webp",
+      "05800": "2025-01-29-android-2wielerspecialist_nl-firefox_05800.webp",
+      "05900": "2025-01-29-android-2wielerspecialist_nl-firefox_05900.webp",
+      "06000": "2025-01-29-android-2wielerspecialist_nl-firefox_06000.webp",
+      "06100": "2025-01-29-android-2wielerspecialist_nl-firefox_06100.webp",
+      "06200": "2025-01-29-android-2wielerspecialist_nl-firefox_06200.webp",
+      "06300": "2025-01-29-android-2wielerspecialist_nl-firefox_06300.webp",
+      "06400": "2025-01-29-android-2wielerspecialist_nl-firefox_06400.webp",
+      "06500": "2025-01-29-android-2wielerspecialist_nl-firefox_06500.webp",
+      "06600": "2025-01-29-android-2wielerspecialist_nl-firefox_06600.webp",
+      "06700": "2025-01-29-android-2wielerspecialist_nl-firefox_06700.webp",
+      "06800": "2025-01-29-android-2wielerspecialist_nl-firefox_06800.webp",
+      "06900": "2025-01-29-android-2wielerspecialist_nl-firefox_06900.webp",
+      "07000": "2025-01-29-android-2wielerspecialist_nl-firefox_07000.webp",
+      "07100": "2025-01-29-android-2wielerspecialist_nl-firefox_07100.webp",
+      "07200": "2025-01-29-android-2wielerspecialist_nl-firefox_07200.webp",
+      "07300": "2025-01-29-android-2wielerspecialist_nl-firefox_07300.webp",
+      "07400": "2025-01-29-android-2wielerspecialist_nl-firefox_07400.webp",
+      "07500": "2025-01-29-android-2wielerspecialist_nl-firefox_07500.webp",
+      "07600": "2025-01-29-android-2wielerspecialist_nl-firefox_07600.webp",
+      "07700": "2025-01-29-android-2wielerspecialist_nl-firefox_07700.webp",
+      "07800": "2025-01-29-android-2wielerspecialist_nl-firefox_07800.webp",
+      "07900": "2025-01-29-android-2wielerspecialist_nl-firefox_07900.webp",
+      "08000": "2025-01-29-android-2wielerspecialist_nl-firefox_08000.webp",
+      "08100": "2025-01-29-android-2wielerspecialist_nl-firefox_08100.webp",
+      "08200": "2025-01-29-android-2wielerspecialist_nl-firefox_08200.webp",
+      "08300": "2025-01-29-android-2wielerspecialist_nl-firefox_08300.webp",
+      "08400": "2025-01-29-android-2wielerspecialist_nl-firefox_08400.webp",
+      "08500": "2025-01-29-android-2wielerspecialist_nl-firefox_08500.webp",
+      "08600": "2025-01-29-android-2wielerspecialist_nl-firefox_08600.webp",
+      "08700": "2025-01-29-android-2wielerspecialist_nl-firefox_08700.webp",
+      "08800": "2025-01-29-android-2wielerspecialist_nl-firefox_08800.webp",
+      "08900": "2025-01-29-android-2wielerspecialist_nl-firefox_08900.webp",
+      "09000": "2025-01-29-android-2wielerspecialist_nl-firefox_09000.webp",
+      "09100": "2025-01-29-android-2wielerspecialist_nl-firefox_09100.webp",
+      "09200": "2025-01-29-android-2wielerspecialist_nl-firefox_09200.webp",
+      "09300": "2025-01-29-android-2wielerspecialist_nl-firefox_09300.webp",
+      "09400": "2025-01-29-android-2wielerspecialist_nl-firefox_09400.webp",
+      "09500": "2025-01-29-android-2wielerspecialist_nl-firefox_09500.webp",
+      "09600": "2025-01-29-android-2wielerspecialist_nl-firefox_09600.webp",
+      "09700": "2025-01-29-android-2wielerspecialist_nl-firefox_09700.webp"
+    },
+    "power": {},
+    "metrics": {
+      "fcp": {
+        "median": "473",
+        "stddev": "213.000000",
+        "rsd": "38.663722"
+      },
+      "largestContentfulPaintloadTime": {
+        "median": "540",
+        "stddev": "207.000000",
+        "rsd": "33.444463"
+      },
+      "largestContentfulPaintrenderTime": {
+        "median": "604",
+        "stddev": "210.000000",
+        "rsd": "30.976015"
+      },
+      "redirectStart": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "redirectEnd": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "fetchStart": {
+        "median": "-2",
+        "stddev": "0.000000",
+        "rsd": "-22.360680"
+      },
+      "domainLookupStart": {
+        "median": "18.5",
+        "stddev": "67.460000",
+        "rsd": "184.577112"
+      },
+      "connectStart": {
+        "median": "19",
+        "stddev": "69.000000",
+        "rsd": "182.330076"
+      },
+      "requestStart": {
+        "median": "67",
+        "stddev": "71.000000",
+        "rsd": "83.972016"
+      },
+      "responseStart": {
+        "median": "86",
+        "stddev": "197.000000",
+        "rsd": "146.536973"
+      },
+      "domInteractive": {
+        "median": "572",
+        "stddev": "247.000000",
+        "rsd": "36.094027"
+      },
+      "domComplete": {
+        "median": "1081",
+        "stddev": "341.000000",
+        "rsd": "27.708219"
+      },
+      "loadEventEnd": {
+        "median": "1082",
+        "stddev": "341.000000",
+        "rsd": "27.693837"
+      },
+      "SpeedIndex": {
+        "median": "3346",
+        "stddev": "105.000000",
+        "rsd": "3.130558"
+      },
+      "VisualComplete85": {
+        "median": "2836",
+        "stddev": "189.000000",
+        "rsd": "6.460202"
+      },
+      "LastVisualChange": {
+        "median": "14134",
+        "stddev": "1944.000000",
+        "rsd": "15.351952"
+      },
+      "lcp_element": "\"\"https://2wielerspecialist.nl/cdn/shop/files/vado-sl2-carbon-hero-2.jpg?v=1728463720&width=1100\"\"",
+      "PerceptualSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "2072.000000",
+          "percent": "32"
+        },
+        {
+          "timestamp": "2118.000000",
+          "percent": "32"
+        },
+        {
+          "timestamp": "2134.000000",
+          "percent": "33"
+        },
+        {
+          "timestamp": "2183.000000",
+          "percent": "33"
+        },
+        {
+          "timestamp": "2416.000000",
+          "percent": "36"
+        },
+        {
+          "timestamp": "2465.000000",
+          "percent": "36"
+        },
+        {
+          "timestamp": "2482.000000",
+          "percent": "37"
+        },
+        {
+          "timestamp": "2499.000000",
+          "percent": "37"
+        },
+        {
+          "timestamp": "2515.000000",
+          "percent": "37"
+        },
+        {
+          "timestamp": "2682.000000",
+          "percent": "39"
+        },
+        {
+          "timestamp": "2714.000000",
+          "percent": "39"
+        },
+        {
+          "timestamp": "2731.000000",
+          "percent": "40"
+        },
+        {
+          "timestamp": "2747.000000",
+          "percent": "40"
+        },
+        {
+          "timestamp": "2764.000000",
+          "percent": "40"
+        },
+        {
+          "timestamp": "2781.000000",
+          "percent": "40"
+        },
+        {
+          "timestamp": "2798.000000",
+          "percent": "40"
+        },
+        {
+          "timestamp": "2814.000000",
+          "percent": "40"
+        },
+        {
+          "timestamp": "2830.000000",
+          "percent": "40"
+        },
+        {
+          "timestamp": "2849.000000",
+          "percent": "40"
+        },
+        {
+          "timestamp": "2864.000000",
+          "percent": "41"
+        },
+        {
+          "timestamp": "2882.000000",
+          "percent": "41"
+        },
+        {
+          "timestamp": "2898.000000",
+          "percent": "41"
+        },
+        {
+          "timestamp": "2913.000000",
+          "percent": "41"
+        },
+        {
+          "timestamp": "2930.000000",
+          "percent": "41"
+        },
+        {
+          "timestamp": "2947.000000",
+          "percent": "41"
+        },
+        {
+          "timestamp": "2964.000000",
+          "percent": "41"
+        },
+        {
+          "timestamp": "2980.000000",
+          "percent": "41"
+        },
+        {
+          "timestamp": "3165.000000",
+          "percent": "43"
+        },
+        {
+          "timestamp": "3182.000000",
+          "percent": "43"
+        },
+        {
+          "timestamp": "3197.000000",
+          "percent": "43"
+        },
+        {
+          "timestamp": "3213.000000",
+          "percent": "43"
+        },
+        {
+          "timestamp": "3230.000000",
+          "percent": "43"
+        },
+        {
+          "timestamp": "3246.000000",
+          "percent": "44"
+        },
+        {
+          "timestamp": "3263.000000",
+          "percent": "44"
+        },
+        {
+          "timestamp": "3296.000000",
+          "percent": "44"
+        },
+        {
+          "timestamp": "3364.000000",
+          "percent": "45"
+        },
+        {
+          "timestamp": "3412.000000",
+          "percent": "45"
+        },
+        {
+          "timestamp": "3462.000000",
+          "percent": "45"
+        },
+        {
+          "timestamp": "3479.000000",
+          "percent": "45"
+        },
+        {
+          "timestamp": "3496.000000",
+          "percent": "46"
+        },
+        {
+          "timestamp": "3512.000000",
+          "percent": "46"
+        },
+        {
+          "timestamp": "3795.000000",
+          "percent": "48"
+        },
+        {
+          "timestamp": "3812.000000",
+          "percent": "48"
+        },
+        {
+          "timestamp": "3846.000000",
+          "percent": "48"
+        },
+        {
+          "timestamp": "3863.000000",
+          "percent": "48"
+        },
+        {
+          "timestamp": "3878.000000",
+          "percent": "49"
+        },
+        {
+          "timestamp": "3896.000000",
+          "percent": "49"
+        },
+        {
+          "timestamp": "3912.000000",
+          "percent": "49"
+        },
+        {
+          "timestamp": "3929.000000",
+          "percent": "49"
+        },
+        {
+          "timestamp": "3945.000000",
+          "percent": "49"
+        },
+        {
+          "timestamp": "3961.000000",
+          "percent": "49"
+        },
+        {
+          "timestamp": "3979.000000",
+          "percent": "49"
+        },
+        {
+          "timestamp": "3995.000000",
+          "percent": "49"
+        },
+        {
+          "timestamp": "4012.000000",
+          "percent": "50"
+        },
+        {
+          "timestamp": "4028.000000",
+          "percent": "50"
+        },
+        {
+          "timestamp": "4044.000000",
+          "percent": "50"
+        },
+        {
+          "timestamp": "4061.000000",
+          "percent": "50"
+        },
+        {
+          "timestamp": "4078.000000",
+          "percent": "50"
+        },
+        {
+          "timestamp": "4095.000000",
+          "percent": "50"
+        },
+        {
+          "timestamp": "4111.000000",
+          "percent": "50"
+        },
+        {
+          "timestamp": "4462.000000",
+          "percent": "53"
+        },
+        {
+          "timestamp": "10349.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "10467.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "10514.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "14355.000000",
+          "percent": "100"
+        }
+      ],
+      "ContentfulSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "2072.000000",
+          "percent": "74"
+        },
+        {
+          "timestamp": "2118.000000",
+          "percent": "74"
+        },
+        {
+          "timestamp": "2134.000000",
+          "percent": "74"
+        },
+        {
+          "timestamp": "2183.000000",
+          "percent": "74"
+        },
+        {
+          "timestamp": "2416.000000",
+          "percent": "74"
+        },
+        {
+          "timestamp": "2465.000000",
+          "percent": "74"
+        },
+        {
+          "timestamp": "2482.000000",
+          "percent": "74"
+        },
+        {
+          "timestamp": "2499.000000",
+          "percent": "74"
+        },
+        {
+          "timestamp": "2515.000000",
+          "percent": "74"
+        },
+        {
+          "timestamp": "2682.000000",
+          "percent": "79"
+        },
+        {
+          "timestamp": "2714.000000",
+          "percent": "79"
+        },
+        {
+          "timestamp": "2731.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "2747.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "2764.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "2781.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "2798.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "2814.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "2830.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "2849.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "2864.000000",
+          "percent": "81"
+        },
+        {
+          "timestamp": "2882.000000",
+          "percent": "81"
+        },
+        {
+          "timestamp": "2898.000000",
+          "percent": "81"
+        },
+        {
+          "timestamp": "2913.000000",
+          "percent": "81"
+        },
+        {
+          "timestamp": "2930.000000",
+          "percent": "81"
+        },
+        {
+          "timestamp": "2947.000000",
+          "percent": "81"
+        },
+        {
+          "timestamp": "2964.000000",
+          "percent": "81"
+        },
+        {
+          "timestamp": "2980.000000",
+          "percent": "81"
+        },
+        {
+          "timestamp": "3165.000000",
+          "percent": "82"
+        },
+        {
+          "timestamp": "3182.000000",
+          "percent": "82"
+        },
+        {
+          "timestamp": "3197.000000",
+          "percent": "82"
+        },
+        {
+          "timestamp": "3213.000000",
+          "percent": "83"
+        },
+        {
+          "timestamp": "3230.000000",
+          "percent": "83"
+        },
+        {
+          "timestamp": "3246.000000",
+          "percent": "83"
+        },
+        {
+          "timestamp": "3263.000000",
+          "percent": "83"
+        },
+        {
+          "timestamp": "3296.000000",
+          "percent": "83"
+        },
+        {
+          "timestamp": "3364.000000",
+          "percent": "83"
+        },
+        {
+          "timestamp": "3412.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "3462.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "3479.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "3496.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "3512.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "3795.000000",
+          "percent": "86"
+        },
+        {
+          "timestamp": "3812.000000",
+          "percent": "86"
+        },
+        {
+          "timestamp": "3846.000000",
+          "percent": "86"
+        },
+        {
+          "timestamp": "3863.000000",
+          "percent": "86"
+        },
+        {
+          "timestamp": "3878.000000",
+          "percent": "86"
+        },
+        {
+          "timestamp": "3896.000000",
+          "percent": "87"
+        },
+        {
+          "timestamp": "3912.000000",
+          "percent": "87"
+        },
+        {
+          "timestamp": "3929.000000",
+          "percent": "87"
+        },
+        {
+          "timestamp": "3945.000000",
+          "percent": "87"
+        },
+        {
+          "timestamp": "3961.000000",
+          "percent": "87"
+        },
+        {
+          "timestamp": "3979.000000",
+          "percent": "87"
+        },
+        {
+          "timestamp": "3995.000000",
+          "percent": "87"
+        },
+        {
+          "timestamp": "4012.000000",
+          "percent": "87"
+        },
+        {
+          "timestamp": "4028.000000",
+          "percent": "87"
+        },
+        {
+          "timestamp": "4044.000000",
+          "percent": "87"
+        },
+        {
+          "timestamp": "4061.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "4078.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "4095.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "4111.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "4462.000000",
+          "percent": "90"
+        },
+        {
+          "timestamp": "10349.000000",
+          "percent": "96"
+        },
+        {
+          "timestamp": "10467.000000",
+          "percent": "96"
+        },
+        {
+          "timestamp": "10514.000000",
+          "percent": "96"
+        },
+        {
+          "timestamp": "14355.000000",
+          "percent": "100"
+        }
+      ],
+      "SpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "2072.000000",
+          "percent": "50"
+        },
+        {
+          "timestamp": "2118.000000",
+          "percent": "50"
+        },
+        {
+          "timestamp": "2134.000000",
+          "percent": "50"
+        },
+        {
+          "timestamp": "2183.000000",
+          "percent": "50"
+        },
+        {
+          "timestamp": "2416.000000",
+          "percent": "50"
+        },
+        {
+          "timestamp": "2465.000000",
+          "percent": "50"
+        },
+        {
+          "timestamp": "2482.000000",
+          "percent": "50"
+        },
+        {
+          "timestamp": "2499.000000",
+          "percent": "50"
+        },
+        {
+          "timestamp": "2515.000000",
+          "percent": "50"
+        },
+        {
+          "timestamp": "2682.000000",
+          "percent": "75"
+        },
+        {
+          "timestamp": "2714.000000",
+          "percent": "73"
+        },
+        {
+          "timestamp": "2731.000000",
+          "percent": "73"
+        },
+        {
+          "timestamp": "2747.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "2764.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "2781.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "2798.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "2814.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "2830.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "2849.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "2864.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "2882.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "2898.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "2913.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "2930.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "2947.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "2964.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "2980.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "3165.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "3182.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "3197.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "3213.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "3230.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "3246.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "3263.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "3296.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "3364.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "3412.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "3462.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "3479.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "3496.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "3512.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "3795.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "3812.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "3846.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "3863.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "3878.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "3896.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "3912.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "3929.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "3945.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "3961.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "3979.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "3995.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "4012.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "4028.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "4044.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "4061.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "4078.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "4095.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "4111.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "4462.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "10349.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "10467.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "10514.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "14355.000000",
+          "percent": "100"
+        }
+      ]
+    }
+  },
+  "chrome": {
+    "filmstrip_interval": 100,
+    "filmstrip": {
+      "00000": "2025-01-29-android-2wielerspecialist_nl-chrome_00000.webp",
+      "00100": "2025-01-29-android-2wielerspecialist_nl-chrome_00100.webp",
+      "00200": "2025-01-29-android-2wielerspecialist_nl-chrome_00200.webp",
+      "00300": "2025-01-29-android-2wielerspecialist_nl-chrome_00300.webp",
+      "00400": "2025-01-29-android-2wielerspecialist_nl-chrome_00400.webp",
+      "00500": "2025-01-29-android-2wielerspecialist_nl-chrome_00500.webp",
+      "00600": "2025-01-29-android-2wielerspecialist_nl-chrome_00600.webp",
+      "00700": "2025-01-29-android-2wielerspecialist_nl-chrome_00700.webp",
+      "00800": "2025-01-29-android-2wielerspecialist_nl-chrome_00800.webp",
+      "00900": "2025-01-29-android-2wielerspecialist_nl-chrome_00900.webp",
+      "01000": "2025-01-29-android-2wielerspecialist_nl-chrome_01000.webp",
+      "01100": "2025-01-29-android-2wielerspecialist_nl-chrome_01100.webp",
+      "01200": "2025-01-29-android-2wielerspecialist_nl-chrome_01200.webp",
+      "01300": "2025-01-29-android-2wielerspecialist_nl-chrome_01300.webp",
+      "01400": "2025-01-29-android-2wielerspecialist_nl-chrome_01400.webp",
+      "01500": "2025-01-29-android-2wielerspecialist_nl-chrome_01500.webp",
+      "01600": "2025-01-29-android-2wielerspecialist_nl-chrome_01600.webp",
+      "01700": "2025-01-29-android-2wielerspecialist_nl-chrome_01700.webp",
+      "01800": "2025-01-29-android-2wielerspecialist_nl-chrome_01800.webp",
+      "01900": "2025-01-29-android-2wielerspecialist_nl-chrome_01900.webp",
+      "02000": "2025-01-29-android-2wielerspecialist_nl-chrome_02000.webp",
+      "02100": "2025-01-29-android-2wielerspecialist_nl-chrome_02100.webp",
+      "02200": "2025-01-29-android-2wielerspecialist_nl-chrome_02200.webp",
+      "02300": "2025-01-29-android-2wielerspecialist_nl-chrome_02300.webp",
+      "02400": "2025-01-29-android-2wielerspecialist_nl-chrome_02400.webp",
+      "02500": "2025-01-29-android-2wielerspecialist_nl-chrome_02500.webp",
+      "02600": "2025-01-29-android-2wielerspecialist_nl-chrome_02600.webp",
+      "02700": "2025-01-29-android-2wielerspecialist_nl-chrome_02700.webp",
+      "02800": "2025-01-29-android-2wielerspecialist_nl-chrome_02800.webp",
+      "02900": "2025-01-29-android-2wielerspecialist_nl-chrome_02900.webp",
+      "03000": "2025-01-29-android-2wielerspecialist_nl-chrome_03000.webp",
+      "03100": "2025-01-29-android-2wielerspecialist_nl-chrome_03100.webp",
+      "03200": "2025-01-29-android-2wielerspecialist_nl-chrome_03200.webp",
+      "03300": "2025-01-29-android-2wielerspecialist_nl-chrome_03300.webp",
+      "03400": "2025-01-29-android-2wielerspecialist_nl-chrome_03400.webp",
+      "03500": "2025-01-29-android-2wielerspecialist_nl-chrome_03500.webp",
+      "03600": "2025-01-29-android-2wielerspecialist_nl-chrome_03600.webp",
+      "03700": "2025-01-29-android-2wielerspecialist_nl-chrome_03700.webp",
+      "03800": "2025-01-29-android-2wielerspecialist_nl-chrome_03800.webp",
+      "03900": "2025-01-29-android-2wielerspecialist_nl-chrome_03900.webp",
+      "04000": "2025-01-29-android-2wielerspecialist_nl-chrome_04000.webp",
+      "04100": "2025-01-29-android-2wielerspecialist_nl-chrome_04100.webp",
+      "04200": "2025-01-29-android-2wielerspecialist_nl-chrome_04200.webp",
+      "04300": "2025-01-29-android-2wielerspecialist_nl-chrome_04300.webp",
+      "04400": "2025-01-29-android-2wielerspecialist_nl-chrome_04400.webp",
+      "04500": "2025-01-29-android-2wielerspecialist_nl-chrome_04500.webp",
+      "04600": "2025-01-29-android-2wielerspecialist_nl-chrome_04600.webp",
+      "04700": "2025-01-29-android-2wielerspecialist_nl-chrome_04700.webp",
+      "04800": "2025-01-29-android-2wielerspecialist_nl-chrome_04800.webp",
+      "04900": "2025-01-29-android-2wielerspecialist_nl-chrome_04900.webp",
+      "05000": "2025-01-29-android-2wielerspecialist_nl-chrome_05000.webp",
+      "05100": "2025-01-29-android-2wielerspecialist_nl-chrome_05100.webp",
+      "05200": "2025-01-29-android-2wielerspecialist_nl-chrome_05200.webp",
+      "05300": "2025-01-29-android-2wielerspecialist_nl-chrome_05300.webp",
+      "05400": "2025-01-29-android-2wielerspecialist_nl-chrome_05400.webp",
+      "05500": "2025-01-29-android-2wielerspecialist_nl-chrome_05500.webp",
+      "05600": "2025-01-29-android-2wielerspecialist_nl-chrome_05600.webp",
+      "05700": "2025-01-29-android-2wielerspecialist_nl-chrome_05700.webp",
+      "05800": "2025-01-29-android-2wielerspecialist_nl-chrome_05800.webp",
+      "05900": "2025-01-29-android-2wielerspecialist_nl-chrome_05900.webp",
+      "06000": "2025-01-29-android-2wielerspecialist_nl-chrome_06000.webp",
+      "06100": "2025-01-29-android-2wielerspecialist_nl-chrome_06100.webp",
+      "06200": "2025-01-29-android-2wielerspecialist_nl-chrome_06200.webp",
+      "06300": "2025-01-29-android-2wielerspecialist_nl-chrome_06300.webp",
+      "06400": "2025-01-29-android-2wielerspecialist_nl-chrome_06400.webp",
+      "06500": "2025-01-29-android-2wielerspecialist_nl-chrome_06500.webp",
+      "06600": "2025-01-29-android-2wielerspecialist_nl-chrome_06600.webp",
+      "06700": "2025-01-29-android-2wielerspecialist_nl-chrome_06700.webp",
+      "06800": "2025-01-29-android-2wielerspecialist_nl-chrome_06800.webp",
+      "06900": "2025-01-29-android-2wielerspecialist_nl-chrome_06900.webp",
+      "07000": "2025-01-29-android-2wielerspecialist_nl-chrome_07000.webp",
+      "07100": "2025-01-29-android-2wielerspecialist_nl-chrome_07100.webp",
+      "07200": "2025-01-29-android-2wielerspecialist_nl-chrome_07200.webp",
+      "07300": "2025-01-29-android-2wielerspecialist_nl-chrome_07300.webp",
+      "07400": "2025-01-29-android-2wielerspecialist_nl-chrome_07400.webp",
+      "07500": "2025-01-29-android-2wielerspecialist_nl-chrome_07500.webp",
+      "07600": "2025-01-29-android-2wielerspecialist_nl-chrome_07600.webp",
+      "07700": "2025-01-29-android-2wielerspecialist_nl-chrome_07700.webp",
+      "07800": "2025-01-29-android-2wielerspecialist_nl-chrome_07800.webp"
+    },
+    "power": {},
+    "metrics": {
+      "fcp": {
+        "median": "657",
+        "stddev": "146.000000",
+        "rsd": "20.642326"
+      },
+      "largestContentfulPaintloadTime": {
+        "median": "557",
+        "stddev": "143.000000",
+        "rsd": "24.132578"
+      },
+      "largestContentfulPaintrenderTime": {
+        "median": "699",
+        "stddev": "139.000000",
+        "rsd": "18.409867"
+      },
+      "redirectStart": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "redirectEnd": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "fetchStart": {
+        "median": "5",
+        "stddev": "2.000000",
+        "rsd": "32.552651"
+      },
+      "domainLookupStart": {
+        "median": "9",
+        "stddev": "3.000000",
+        "rsd": "33.958641"
+      },
+      "connectStart": {
+        "median": "9",
+        "stddev": "3.000000",
+        "rsd": "33.882889"
+      },
+      "requestStart": {
+        "median": "48",
+        "stddev": "22.000000",
+        "rsd": "43.096916"
+      },
+      "responseStart": {
+        "median": "258",
+        "stddev": "56.000000",
+        "rsd": "20.475950"
+      },
+      "domInteractive": {
+        "median": "653",
+        "stddev": "130.000000",
+        "rsd": "18.894555"
+      },
+      "domComplete": {
+        "median": "1257",
+        "stddev": "184.000000",
+        "rsd": "14.310717"
+      },
+      "loadEventEnd": {
+        "median": "1259",
+        "stddev": "184.000000",
+        "rsd": "14.297379"
+      },
+      "SpeedIndex": {
+        "median": "2422",
+        "stddev": "79.000000",
+        "rsd": "3.227023"
+      },
+      "VisualComplete85": {
+        "median": "2708",
+        "stddev": "144.000000",
+        "rsd": "5.216187"
+      },
+      "LastVisualChange": {
+        "median": "9923",
+        "stddev": "647.000000",
+        "rsd": "6.372927"
+      },
+      "lcp_element": "\"\"https://2wielerspecialist.nl/cdn/shop/files/vado-sl2-carbon-hero-2.jpg?v=1728463720&width=1100\"\"",
+      "PerceptualSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "114.000000",
+          "percent": "2"
+        },
+        {
+          "timestamp": "130.000000",
+          "percent": "2"
+        },
+        {
+          "timestamp": "148.000000",
+          "percent": "2"
+        },
+        {
+          "timestamp": "165.000000",
+          "percent": "2"
+        },
+        {
+          "timestamp": "181.000000",
+          "percent": "2"
+        },
+        {
+          "timestamp": "198.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "214.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "234.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "248.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "268.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "281.000000",
+          "percent": "4"
+        },
+        {
+          "timestamp": "296.000000",
+          "percent": "4"
+        },
+        {
+          "timestamp": "314.000000",
+          "percent": "4"
+        },
+        {
+          "timestamp": "330.000000",
+          "percent": "4"
+        },
+        {
+          "timestamp": "349.000000",
+          "percent": "4"
+        },
+        {
+          "timestamp": "373.000000",
+          "percent": "5"
+        },
+        {
+          "timestamp": "380.000000",
+          "percent": "5"
+        },
+        {
+          "timestamp": "396.000000",
+          "percent": "5"
+        },
+        {
+          "timestamp": "416.000000",
+          "percent": "5"
+        },
+        {
+          "timestamp": "431.000000",
+          "percent": "5"
+        },
+        {
+          "timestamp": "2027.000000",
+          "percent": "25"
+        },
+        {
+          "timestamp": "2062.000000",
+          "percent": "26"
+        },
+        {
+          "timestamp": "2344.000000",
+          "percent": "30"
+        },
+        {
+          "timestamp": "2376.000000",
+          "percent": "30"
+        },
+        {
+          "timestamp": "2392.000000",
+          "percent": "30"
+        },
+        {
+          "timestamp": "2509.000000",
+          "percent": "32"
+        },
+        {
+          "timestamp": "2609.000000",
+          "percent": "33"
+        },
+        {
+          "timestamp": "2707.000000",
+          "percent": "35"
+        },
+        {
+          "timestamp": "2724.000000",
+          "percent": "35"
+        },
+        {
+          "timestamp": "2740.000000",
+          "percent": "35"
+        },
+        {
+          "timestamp": "2757.000000",
+          "percent": "35"
+        },
+        {
+          "timestamp": "2857.000000",
+          "percent": "36"
+        },
+        {
+          "timestamp": "2874.000000",
+          "percent": "36"
+        },
+        {
+          "timestamp": "2924.000000",
+          "percent": "37"
+        },
+        {
+          "timestamp": "2942.000000",
+          "percent": "37"
+        },
+        {
+          "timestamp": "2957.000000",
+          "percent": "37"
+        },
+        {
+          "timestamp": "2975.000000",
+          "percent": "37"
+        },
+        {
+          "timestamp": "2991.000000",
+          "percent": "37"
+        },
+        {
+          "timestamp": "3009.000000",
+          "percent": "38"
+        },
+        {
+          "timestamp": "3028.000000",
+          "percent": "38"
+        },
+        {
+          "timestamp": "3041.000000",
+          "percent": "38"
+        },
+        {
+          "timestamp": "3063.000000",
+          "percent": "38"
+        },
+        {
+          "timestamp": "3076.000000",
+          "percent": "38"
+        },
+        {
+          "timestamp": "3093.000000",
+          "percent": "38"
+        },
+        {
+          "timestamp": "3126.000000",
+          "percent": "39"
+        },
+        {
+          "timestamp": "3140.000000",
+          "percent": "39"
+        },
+        {
+          "timestamp": "3158.000000",
+          "percent": "39"
+        },
+        {
+          "timestamp": "3174.000000",
+          "percent": "39"
+        },
+        {
+          "timestamp": "3190.000000",
+          "percent": "39"
+        },
+        {
+          "timestamp": "3208.000000",
+          "percent": "39"
+        },
+        {
+          "timestamp": "3225.000000",
+          "percent": "39"
+        },
+        {
+          "timestamp": "3241.000000",
+          "percent": "40"
+        },
+        {
+          "timestamp": "3257.000000",
+          "percent": "40"
+        },
+        {
+          "timestamp": "3342.000000",
+          "percent": "41"
+        },
+        {
+          "timestamp": "8721.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "8780.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "9895.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "9924.000000",
+          "percent": "100"
+        }
+      ],
+      "ContentfulSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "114.000000",
+          "percent": "1"
+        },
+        {
+          "timestamp": "130.000000",
+          "percent": "2"
+        },
+        {
+          "timestamp": "148.000000",
+          "percent": "2"
+        },
+        {
+          "timestamp": "165.000000",
+          "percent": "2"
+        },
+        {
+          "timestamp": "181.000000",
+          "percent": "2"
+        },
+        {
+          "timestamp": "198.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "214.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "234.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "248.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "268.000000",
+          "percent": "4"
+        },
+        {
+          "timestamp": "281.000000",
+          "percent": "4"
+        },
+        {
+          "timestamp": "296.000000",
+          "percent": "4"
+        },
+        {
+          "timestamp": "314.000000",
+          "percent": "4"
+        },
+        {
+          "timestamp": "330.000000",
+          "percent": "5"
+        },
+        {
+          "timestamp": "349.000000",
+          "percent": "5"
+        },
+        {
+          "timestamp": "373.000000",
+          "percent": "5"
+        },
+        {
+          "timestamp": "380.000000",
+          "percent": "5"
+        },
+        {
+          "timestamp": "396.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "416.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "431.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "2027.000000",
+          "percent": "32"
+        },
+        {
+          "timestamp": "2062.000000",
+          "percent": "33"
+        },
+        {
+          "timestamp": "2344.000000",
+          "percent": "33"
+        },
+        {
+          "timestamp": "2376.000000",
+          "percent": "33"
+        },
+        {
+          "timestamp": "2392.000000",
+          "percent": "33"
+        },
+        {
+          "timestamp": "2509.000000",
+          "percent": "33"
+        },
+        {
+          "timestamp": "2609.000000",
+          "percent": "33"
+        },
+        {
+          "timestamp": "2707.000000",
+          "percent": "34"
+        },
+        {
+          "timestamp": "2724.000000",
+          "percent": "34"
+        },
+        {
+          "timestamp": "2740.000000",
+          "percent": "35"
+        },
+        {
+          "timestamp": "2757.000000",
+          "percent": "35"
+        },
+        {
+          "timestamp": "2857.000000",
+          "percent": "36"
+        },
+        {
+          "timestamp": "2874.000000",
+          "percent": "36"
+        },
+        {
+          "timestamp": "2924.000000",
+          "percent": "36"
+        },
+        {
+          "timestamp": "2942.000000",
+          "percent": "36"
+        },
+        {
+          "timestamp": "2957.000000",
+          "percent": "37"
+        },
+        {
+          "timestamp": "2975.000000",
+          "percent": "37"
+        },
+        {
+          "timestamp": "2991.000000",
+          "percent": "37"
+        },
+        {
+          "timestamp": "3009.000000",
+          "percent": "37"
+        },
+        {
+          "timestamp": "3028.000000",
+          "percent": "37"
+        },
+        {
+          "timestamp": "3041.000000",
+          "percent": "37"
+        },
+        {
+          "timestamp": "3063.000000",
+          "percent": "38"
+        },
+        {
+          "timestamp": "3076.000000",
+          "percent": "38"
+        },
+        {
+          "timestamp": "3093.000000",
+          "percent": "38"
+        },
+        {
+          "timestamp": "3126.000000",
+          "percent": "38"
+        },
+        {
+          "timestamp": "3140.000000",
+          "percent": "38"
+        },
+        {
+          "timestamp": "3158.000000",
+          "percent": "38"
+        },
+        {
+          "timestamp": "3174.000000",
+          "percent": "39"
+        },
+        {
+          "timestamp": "3190.000000",
+          "percent": "39"
+        },
+        {
+          "timestamp": "3208.000000",
+          "percent": "39"
+        },
+        {
+          "timestamp": "3225.000000",
+          "percent": "39"
+        },
+        {
+          "timestamp": "3241.000000",
+          "percent": "39"
+        },
+        {
+          "timestamp": "3257.000000",
+          "percent": "39"
+        },
+        {
+          "timestamp": "3342.000000",
+          "percent": "40"
+        },
+        {
+          "timestamp": "8721.000000",
+          "percent": "90"
+        },
+        {
+          "timestamp": "8780.000000",
+          "percent": "90"
+        },
+        {
+          "timestamp": "9895.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "9924.000000",
+          "percent": "100"
+        }
+      ],
+      "SpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "114.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "130.000000",
+          "percent": "39"
+        },
+        {
+          "timestamp": "148.000000",
+          "percent": "39"
+        },
+        {
+          "timestamp": "165.000000",
+          "percent": "39"
+        },
+        {
+          "timestamp": "181.000000",
+          "percent": "39"
+        },
+        {
+          "timestamp": "198.000000",
+          "percent": "39"
+        },
+        {
+          "timestamp": "214.000000",
+          "percent": "39"
+        },
+        {
+          "timestamp": "234.000000",
+          "percent": "39"
+        },
+        {
+          "timestamp": "248.000000",
+          "percent": "39"
+        },
+        {
+          "timestamp": "268.000000",
+          "percent": "39"
+        },
+        {
+          "timestamp": "281.000000",
+          "percent": "39"
+        },
+        {
+          "timestamp": "296.000000",
+          "percent": "39"
+        },
+        {
+          "timestamp": "314.000000",
+          "percent": "39"
+        },
+        {
+          "timestamp": "330.000000",
+          "percent": "39"
+        },
+        {
+          "timestamp": "349.000000",
+          "percent": "39"
+        },
+        {
+          "timestamp": "373.000000",
+          "percent": "39"
+        },
+        {
+          "timestamp": "380.000000",
+          "percent": "39"
+        },
+        {
+          "timestamp": "396.000000",
+          "percent": "39"
+        },
+        {
+          "timestamp": "416.000000",
+          "percent": "39"
+        },
+        {
+          "timestamp": "431.000000",
+          "percent": "39"
+        },
+        {
+          "timestamp": "2027.000000",
+          "percent": "51"
+        },
+        {
+          "timestamp": "2062.000000",
+          "percent": "51"
+        },
+        {
+          "timestamp": "2344.000000",
+          "percent": "50"
+        },
+        {
+          "timestamp": "2376.000000",
+          "percent": "50"
+        },
+        {
+          "timestamp": "2392.000000",
+          "percent": "50"
+        },
+        {
+          "timestamp": "2509.000000",
+          "percent": "50"
+        },
+        {
+          "timestamp": "2609.000000",
+          "percent": "50"
+        },
+        {
+          "timestamp": "2707.000000",
+          "percent": "57"
+        },
+        {
+          "timestamp": "2724.000000",
+          "percent": "63"
+        },
+        {
+          "timestamp": "2740.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "2757.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "2857.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "2874.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "2924.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "2942.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "2957.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "2975.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "2991.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "3009.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "3028.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "3041.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "3063.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "3076.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "3093.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "3126.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "3140.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "3158.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "3174.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "3190.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "3208.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "3225.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "3241.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "3257.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "3342.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "8721.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "8780.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "9895.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "9924.000000",
+          "percent": "100"
+        }
+      ]
+    }
+  }
+}

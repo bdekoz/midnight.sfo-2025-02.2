@@ -1,0 +1,5878 @@
+{
+  "platform": "android",
+  "date": "2025-01-29",
+  "test": "lnironshop",
+  "url": "http://www.lnironshop.com/",
+  "url_content_traits": {
+    "compression-dictionary": 0,
+    "dns-prefetch": 0,
+    "google-publisher-tag": 0,
+    "preconnect": 1,
+    "prefetch": 0,
+    "preload": 1,
+    "prerender": 0
+  },
+  "video_side_by_side": "2025-01-29-android-lnironshop-side-by-side.mp4",
+  "firefox": {
+    "filmstrip_interval": 100,
+    "filmstrip": {
+      "00000": "2025-01-29-android-lnironshop-firefox_00000.webp",
+      "00100": "2025-01-29-android-lnironshop-firefox_00100.webp",
+      "00200": "2025-01-29-android-lnironshop-firefox_00200.webp",
+      "00300": "2025-01-29-android-lnironshop-firefox_00300.webp",
+      "00400": "2025-01-29-android-lnironshop-firefox_00400.webp",
+      "00500": "2025-01-29-android-lnironshop-firefox_00500.webp",
+      "00600": "2025-01-29-android-lnironshop-firefox_00600.webp",
+      "00700": "2025-01-29-android-lnironshop-firefox_00700.webp",
+      "00800": "2025-01-29-android-lnironshop-firefox_00800.webp",
+      "00900": "2025-01-29-android-lnironshop-firefox_00900.webp",
+      "01000": "2025-01-29-android-lnironshop-firefox_01000.webp",
+      "01100": "2025-01-29-android-lnironshop-firefox_01100.webp",
+      "01200": "2025-01-29-android-lnironshop-firefox_01200.webp",
+      "01300": "2025-01-29-android-lnironshop-firefox_01300.webp",
+      "01400": "2025-01-29-android-lnironshop-firefox_01400.webp",
+      "01500": "2025-01-29-android-lnironshop-firefox_01500.webp",
+      "01600": "2025-01-29-android-lnironshop-firefox_01600.webp",
+      "01700": "2025-01-29-android-lnironshop-firefox_01700.webp",
+      "01800": "2025-01-29-android-lnironshop-firefox_01800.webp",
+      "01900": "2025-01-29-android-lnironshop-firefox_01900.webp",
+      "02000": "2025-01-29-android-lnironshop-firefox_02000.webp",
+      "02100": "2025-01-29-android-lnironshop-firefox_02100.webp",
+      "02200": "2025-01-29-android-lnironshop-firefox_02200.webp",
+      "02300": "2025-01-29-android-lnironshop-firefox_02300.webp",
+      "02400": "2025-01-29-android-lnironshop-firefox_02400.webp",
+      "02500": "2025-01-29-android-lnironshop-firefox_02500.webp",
+      "02600": "2025-01-29-android-lnironshop-firefox_02600.webp",
+      "02700": "2025-01-29-android-lnironshop-firefox_02700.webp",
+      "02800": "2025-01-29-android-lnironshop-firefox_02800.webp",
+      "02900": "2025-01-29-android-lnironshop-firefox_02900.webp",
+      "03000": "2025-01-29-android-lnironshop-firefox_03000.webp",
+      "03100": "2025-01-29-android-lnironshop-firefox_03100.webp",
+      "03200": "2025-01-29-android-lnironshop-firefox_03200.webp",
+      "03300": "2025-01-29-android-lnironshop-firefox_03300.webp",
+      "03400": "2025-01-29-android-lnironshop-firefox_03400.webp",
+      "03500": "2025-01-29-android-lnironshop-firefox_03500.webp",
+      "03600": "2025-01-29-android-lnironshop-firefox_03600.webp",
+      "03700": "2025-01-29-android-lnironshop-firefox_03700.webp",
+      "03800": "2025-01-29-android-lnironshop-firefox_03800.webp",
+      "03900": "2025-01-29-android-lnironshop-firefox_03900.webp",
+      "04000": "2025-01-29-android-lnironshop-firefox_04000.webp",
+      "04100": "2025-01-29-android-lnironshop-firefox_04100.webp",
+      "04200": "2025-01-29-android-lnironshop-firefox_04200.webp",
+      "04300": "2025-01-29-android-lnironshop-firefox_04300.webp",
+      "04400": "2025-01-29-android-lnironshop-firefox_04400.webp",
+      "04500": "2025-01-29-android-lnironshop-firefox_04500.webp",
+      "04600": "2025-01-29-android-lnironshop-firefox_04600.webp",
+      "04700": "2025-01-29-android-lnironshop-firefox_04700.webp",
+      "04800": "2025-01-29-android-lnironshop-firefox_04800.webp",
+      "04900": "2025-01-29-android-lnironshop-firefox_04900.webp",
+      "05000": "2025-01-29-android-lnironshop-firefox_05000.webp",
+      "05100": "2025-01-29-android-lnironshop-firefox_05100.webp",
+      "05200": "2025-01-29-android-lnironshop-firefox_05200.webp",
+      "05300": "2025-01-29-android-lnironshop-firefox_05300.webp",
+      "05400": "2025-01-29-android-lnironshop-firefox_05400.webp",
+      "05500": "2025-01-29-android-lnironshop-firefox_05500.webp",
+      "05600": "2025-01-29-android-lnironshop-firefox_05600.webp",
+      "05700": "2025-01-29-android-lnironshop-firefox_05700.webp",
+      "05800": "2025-01-29-android-lnironshop-firefox_05800.webp",
+      "05900": "2025-01-29-android-lnironshop-firefox_05900.webp",
+      "06000": "2025-01-29-android-lnironshop-firefox_06000.webp",
+      "06100": "2025-01-29-android-lnironshop-firefox_06100.webp",
+      "06200": "2025-01-29-android-lnironshop-firefox_06200.webp",
+      "06300": "2025-01-29-android-lnironshop-firefox_06300.webp",
+      "06400": "2025-01-29-android-lnironshop-firefox_06400.webp",
+      "06500": "2025-01-29-android-lnironshop-firefox_06500.webp",
+      "06600": "2025-01-29-android-lnironshop-firefox_06600.webp",
+      "06700": "2025-01-29-android-lnironshop-firefox_06700.webp",
+      "06800": "2025-01-29-android-lnironshop-firefox_06800.webp",
+      "06900": "2025-01-29-android-lnironshop-firefox_06900.webp",
+      "07000": "2025-01-29-android-lnironshop-firefox_07000.webp",
+      "07100": "2025-01-29-android-lnironshop-firefox_07100.webp",
+      "07200": "2025-01-29-android-lnironshop-firefox_07200.webp",
+      "07300": "2025-01-29-android-lnironshop-firefox_07300.webp",
+      "07400": "2025-01-29-android-lnironshop-firefox_07400.webp",
+      "07500": "2025-01-29-android-lnironshop-firefox_07500.webp",
+      "07600": "2025-01-29-android-lnironshop-firefox_07600.webp",
+      "07700": "2025-01-29-android-lnironshop-firefox_07700.webp",
+      "07800": "2025-01-29-android-lnironshop-firefox_07800.webp",
+      "07900": "2025-01-29-android-lnironshop-firefox_07900.webp",
+      "08000": "2025-01-29-android-lnironshop-firefox_08000.webp",
+      "08100": "2025-01-29-android-lnironshop-firefox_08100.webp",
+      "08200": "2025-01-29-android-lnironshop-firefox_08200.webp",
+      "08300": "2025-01-29-android-lnironshop-firefox_08300.webp",
+      "08400": "2025-01-29-android-lnironshop-firefox_08400.webp",
+      "08500": "2025-01-29-android-lnironshop-firefox_08500.webp",
+      "08600": "2025-01-29-android-lnironshop-firefox_08600.webp",
+      "08700": "2025-01-29-android-lnironshop-firefox_08700.webp",
+      "08800": "2025-01-29-android-lnironshop-firefox_08800.webp",
+      "08900": "2025-01-29-android-lnironshop-firefox_08900.webp",
+      "09000": "2025-01-29-android-lnironshop-firefox_09000.webp",
+      "09100": "2025-01-29-android-lnironshop-firefox_09100.webp",
+      "09200": "2025-01-29-android-lnironshop-firefox_09200.webp",
+      "09300": "2025-01-29-android-lnironshop-firefox_09300.webp",
+      "09400": "2025-01-29-android-lnironshop-firefox_09400.webp",
+      "09500": "2025-01-29-android-lnironshop-firefox_09500.webp",
+      "09600": "2025-01-29-android-lnironshop-firefox_09600.webp",
+      "09700": "2025-01-29-android-lnironshop-firefox_09700.webp",
+      "09800": "2025-01-29-android-lnironshop-firefox_09800.webp",
+      "09900": "2025-01-29-android-lnironshop-firefox_09900.webp"
+    },
+    "power": {},
+    "metrics": {
+      "fcp": {
+        "median": "1871",
+        "stddev": "207.000000",
+        "rsd": "10.737785"
+      },
+      "largestContentfulPaintloadTime": {
+        "median": "3776",
+        "stddev": "785.000000",
+        "rsd": "19.685601"
+      },
+      "largestContentfulPaintrenderTime": {
+        "median": "3776",
+        "stddev": "785.000000",
+        "rsd": "19.685601"
+      },
+      "redirectStart": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "redirectEnd": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "fetchStart": {
+        "median": "-5",
+        "stddev": "1.000000",
+        "rsd": "-28.923435"
+      },
+      "domainLookupStart": {
+        "median": "11",
+        "stddev": "5.000000",
+        "rsd": "51.185936"
+      },
+      "connectStart": {
+        "median": "11.5",
+        "stddev": "4.950000",
+        "rsd": "46.268762"
+      },
+      "requestStart": {
+        "median": "226",
+        "stddev": "17.000000",
+        "rsd": "7.172521"
+      },
+      "responseStart": {
+        "median": "797",
+        "stddev": "113.000000",
+        "rsd": "13.783101"
+      },
+      "domInteractive": {
+        "median": "2213",
+        "stddev": "170.000000",
+        "rsd": "7.541869"
+      },
+      "domComplete": {
+        "median": "4078",
+        "stddev": "1514.000000",
+        "rsd": "32.018159"
+      },
+      "loadEventEnd": {
+        "median": "4079",
+        "stddev": "1512.000000",
+        "rsd": "31.968451"
+      },
+      "SpeedIndex": {
+        "median": "3309",
+        "stddev": "229.000000",
+        "rsd": "6.767285"
+      },
+      "VisualComplete85": {
+        "median": "6079",
+        "stddev": "753.000000",
+        "rsd": "12.183170"
+      },
+      "LastVisualChange": {
+        "median": "15006",
+        "stddev": "783.000000",
+        "rsd": "5.116165"
+      },
+      "lcp_element": "\"\"https://gh.lnwfile.com/_/gh/_raw/6c/zo/n4.jpg\"\"",
+      "PerceptualSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "560.000000",
+          "percent": "12"
+        },
+        {
+          "timestamp": "2056.000000",
+          "percent": "33"
+        },
+        {
+          "timestamp": "2089.000000",
+          "percent": "34"
+        },
+        {
+          "timestamp": "2104.000000",
+          "percent": "34"
+        },
+        {
+          "timestamp": "2121.000000",
+          "percent": "34"
+        },
+        {
+          "timestamp": "2155.000000",
+          "percent": "35"
+        },
+        {
+          "timestamp": "2586.000000",
+          "percent": "40"
+        },
+        {
+          "timestamp": "2604.000000",
+          "percent": "41"
+        },
+        {
+          "timestamp": "2620.000000",
+          "percent": "41"
+        },
+        {
+          "timestamp": "2639.000000",
+          "percent": "41"
+        },
+        {
+          "timestamp": "3086.000000",
+          "percent": "47"
+        },
+        {
+          "timestamp": "3400.000000",
+          "percent": "51"
+        },
+        {
+          "timestamp": "3416.000000",
+          "percent": "51"
+        },
+        {
+          "timestamp": "3435.000000",
+          "percent": "51"
+        },
+        {
+          "timestamp": "3449.000000",
+          "percent": "52"
+        },
+        {
+          "timestamp": "4515.000000",
+          "percent": "66"
+        },
+        {
+          "timestamp": "4532.000000",
+          "percent": "66"
+        },
+        {
+          "timestamp": "4549.000000",
+          "percent": "66"
+        },
+        {
+          "timestamp": "4614.000000",
+          "percent": "67"
+        },
+        {
+          "timestamp": "4630.000000",
+          "percent": "67"
+        },
+        {
+          "timestamp": "4647.000000",
+          "percent": "67"
+        },
+        {
+          "timestamp": "4663.000000",
+          "percent": "68"
+        },
+        {
+          "timestamp": "4680.000000",
+          "percent": "68"
+        },
+        {
+          "timestamp": "4696.000000",
+          "percent": "68"
+        },
+        {
+          "timestamp": "4746.000000",
+          "percent": "69"
+        },
+        {
+          "timestamp": "4797.000000",
+          "percent": "70"
+        },
+        {
+          "timestamp": "4913.000000",
+          "percent": "72"
+        },
+        {
+          "timestamp": "4931.000000",
+          "percent": "72"
+        },
+        {
+          "timestamp": "4946.000000",
+          "percent": "72"
+        },
+        {
+          "timestamp": "4963.000000",
+          "percent": "72"
+        },
+        {
+          "timestamp": "4979.000000",
+          "percent": "73"
+        },
+        {
+          "timestamp": "4995.000000",
+          "percent": "73"
+        },
+        {
+          "timestamp": "5011.000000",
+          "percent": "73"
+        },
+        {
+          "timestamp": "5028.000000",
+          "percent": "74"
+        },
+        {
+          "timestamp": "5045.000000",
+          "percent": "74"
+        },
+        {
+          "timestamp": "5063.000000",
+          "percent": "74"
+        },
+        {
+          "timestamp": "5080.000000",
+          "percent": "74"
+        },
+        {
+          "timestamp": "5096.000000",
+          "percent": "75"
+        },
+        {
+          "timestamp": "5112.000000",
+          "percent": "75"
+        },
+        {
+          "timestamp": "5129.000000",
+          "percent": "75"
+        },
+        {
+          "timestamp": "5147.000000",
+          "percent": "75"
+        },
+        {
+          "timestamp": "5162.000000",
+          "percent": "76"
+        },
+        {
+          "timestamp": "5178.000000",
+          "percent": "76"
+        },
+        {
+          "timestamp": "5197.000000",
+          "percent": "76"
+        },
+        {
+          "timestamp": "5213.000000",
+          "percent": "76"
+        },
+        {
+          "timestamp": "5229.000000",
+          "percent": "77"
+        },
+        {
+          "timestamp": "5246.000000",
+          "percent": "77"
+        },
+        {
+          "timestamp": "5262.000000",
+          "percent": "77"
+        },
+        {
+          "timestamp": "5280.000000",
+          "percent": "78"
+        },
+        {
+          "timestamp": "5295.000000",
+          "percent": "78"
+        },
+        {
+          "timestamp": "5312.000000",
+          "percent": "78"
+        },
+        {
+          "timestamp": "5328.000000",
+          "percent": "78"
+        },
+        {
+          "timestamp": "5347.000000",
+          "percent": "79"
+        },
+        {
+          "timestamp": "5365.000000",
+          "percent": "79"
+        },
+        {
+          "timestamp": "5381.000000",
+          "percent": "79"
+        },
+        {
+          "timestamp": "5396.000000",
+          "percent": "79"
+        },
+        {
+          "timestamp": "5412.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "5527.000000",
+          "percent": "82"
+        },
+        {
+          "timestamp": "5594.000000",
+          "percent": "83"
+        },
+        {
+          "timestamp": "5611.000000",
+          "percent": "83"
+        },
+        {
+          "timestamp": "5628.000000",
+          "percent": "83"
+        },
+        {
+          "timestamp": "5679.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5695.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5712.000000",
+          "percent": "85"
+        },
+        {
+          "timestamp": "5729.000000",
+          "percent": "85"
+        },
+        {
+          "timestamp": "5745.000000",
+          "percent": "85"
+        },
+        {
+          "timestamp": "5760.000000",
+          "percent": "85"
+        },
+        {
+          "timestamp": "5779.000000",
+          "percent": "86"
+        },
+        {
+          "timestamp": "5812.000000",
+          "percent": "86"
+        },
+        {
+          "timestamp": "5828.000000",
+          "percent": "86"
+        },
+        {
+          "timestamp": "5844.000000",
+          "percent": "87"
+        },
+        {
+          "timestamp": "5863.000000",
+          "percent": "87"
+        },
+        {
+          "timestamp": "5878.000000",
+          "percent": "87"
+        },
+        {
+          "timestamp": "5913.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "5928.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "5945.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "5962.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "5979.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "5994.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "6013.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "6030.000000",
+          "percent": "90"
+        },
+        {
+          "timestamp": "6044.000000",
+          "percent": "90"
+        },
+        {
+          "timestamp": "6080.000000",
+          "percent": "90"
+        },
+        {
+          "timestamp": "6096.000000",
+          "percent": "91"
+        },
+        {
+          "timestamp": "6127.000000",
+          "percent": "91"
+        },
+        {
+          "timestamp": "6144.000000",
+          "percent": "92"
+        },
+        {
+          "timestamp": "6163.000000",
+          "percent": "92"
+        },
+        {
+          "timestamp": "6243.000000",
+          "percent": "93"
+        },
+        {
+          "timestamp": "6281.000000",
+          "percent": "94"
+        },
+        {
+          "timestamp": "6361.000000",
+          "percent": "95"
+        },
+        {
+          "timestamp": "6377.000000",
+          "percent": "95"
+        },
+        {
+          "timestamp": "6394.000000",
+          "percent": "96"
+        },
+        {
+          "timestamp": "6411.000000",
+          "percent": "96"
+        },
+        {
+          "timestamp": "6426.000000",
+          "percent": "96"
+        },
+        {
+          "timestamp": "6444.000000",
+          "percent": "96"
+        },
+        {
+          "timestamp": "6478.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "6496.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "6514.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "6530.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "6548.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "6563.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "6580.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "6597.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "6615.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "6710.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "6729.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "6744.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "6766.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "6775.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "6794.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "6928.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "6961.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "6981.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7010.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7026.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7041.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7060.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7076.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7177.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7193.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7212.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7227.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7244.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7342.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7358.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7378.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7391.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7411.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7425.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7445.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7458.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7475.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7493.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7509.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7527.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7540.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7560.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7576.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7593.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7609.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7625.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7647.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7659.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7675.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7693.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7712.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7727.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7742.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7762.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7776.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7794.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7813.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7825.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7847.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7856.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7875.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7895.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7907.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7923.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7939.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7957.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7974.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7990.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "8011.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "8025.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "8042.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "8058.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "8079.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "8092.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "8107.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "8130.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "8139.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "8160.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "8172.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "8191.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "8207.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "8223.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "8240.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "8258.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "8275.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "8291.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "8307.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "8324.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "8342.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "8357.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "8375.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "8390.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "8406.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "8640.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "8706.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "9338.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "9352.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "9374.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "9386.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "9470.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "9489.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "9502.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "9522.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "9537.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "9554.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "9571.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "9589.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "9603.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "9620.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "9638.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "9656.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "9674.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "9690.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "9705.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "9723.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "9737.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "9756.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "9771.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "9790.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "9806.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "9823.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "9839.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "9856.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "9872.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "9890.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "9905.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "9923.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "9937.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "9955.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "9971.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "9989.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "10004.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "10022.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "10037.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "10053.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "10072.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "10087.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "10103.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "10120.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "10138.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "10153.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "10174.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "10187.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "10208.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "10221.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "10237.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "10253.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "10269.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "10286.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "10302.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "10322.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "10337.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "10356.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "10368.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "10387.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "10402.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "10419.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "10636.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "10700.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "11333.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "11350.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "11372.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "11381.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "11399.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "11418.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "11433.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "11450.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "11470.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "11481.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "11500.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "11519.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "11531.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "11551.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "11565.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "11585.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "11598.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "11620.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "11631.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "11649.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "11667.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "11684.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "11699.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "11716.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "11733.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "11749.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "11766.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "11785.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "11798.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "11817.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "11835.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "11850.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "11867.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "11884.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "11901.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "11917.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "11934.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "11949.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "11967.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "11984.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "12000.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "12016.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "12034.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "12048.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "12067.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "12083.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "12099.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "12117.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "12133.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "12148.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "12234.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "12247.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "12269.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "12283.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "12300.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "12319.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "12332.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "12351.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "12366.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "12380.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "12396.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "12629.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "12695.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "13347.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "13360.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "13377.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "13395.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "13414.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "13427.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "13444.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "13463.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "13479.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "13495.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "13511.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "13533.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "13545.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "13560.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "13579.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "13596.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "13611.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "13627.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "13648.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "13665.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "13678.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "13694.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "13712.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "13729.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "13746.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "13764.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "13780.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "13797.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "13814.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "13827.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "13849.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "13862.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "13878.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "13894.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "13914.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "13930.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "13944.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "13962.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "13980.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "13995.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "14015.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "14031.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "14047.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "14062.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "14079.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "14100.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "14111.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "14126.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "14145.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "14164.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "14181.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "14195.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "14211.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "14228.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "14248.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "14259.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "14278.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "14299.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "14393.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "14408.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "14624.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "14691.000000",
+          "percent": "100"
+        }
+      ],
+      "ContentfulSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "560.000000",
+          "percent": "15"
+        },
+        {
+          "timestamp": "2056.000000",
+          "percent": "34"
+        },
+        {
+          "timestamp": "2089.000000",
+          "percent": "34"
+        },
+        {
+          "timestamp": "2104.000000",
+          "percent": "35"
+        },
+        {
+          "timestamp": "2121.000000",
+          "percent": "35"
+        },
+        {
+          "timestamp": "2155.000000",
+          "percent": "35"
+        },
+        {
+          "timestamp": "2586.000000",
+          "percent": "41"
+        },
+        {
+          "timestamp": "2604.000000",
+          "percent": "41"
+        },
+        {
+          "timestamp": "2620.000000",
+          "percent": "41"
+        },
+        {
+          "timestamp": "2639.000000",
+          "percent": "41"
+        },
+        {
+          "timestamp": "3086.000000",
+          "percent": "47"
+        },
+        {
+          "timestamp": "3400.000000",
+          "percent": "51"
+        },
+        {
+          "timestamp": "3416.000000",
+          "percent": "51"
+        },
+        {
+          "timestamp": "3435.000000",
+          "percent": "51"
+        },
+        {
+          "timestamp": "3449.000000",
+          "percent": "51"
+        },
+        {
+          "timestamp": "4515.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "4532.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "4549.000000",
+          "percent": "81"
+        },
+        {
+          "timestamp": "4614.000000",
+          "percent": "81"
+        },
+        {
+          "timestamp": "4630.000000",
+          "percent": "82"
+        },
+        {
+          "timestamp": "4647.000000",
+          "percent": "82"
+        },
+        {
+          "timestamp": "4663.000000",
+          "percent": "82"
+        },
+        {
+          "timestamp": "4680.000000",
+          "percent": "82"
+        },
+        {
+          "timestamp": "4696.000000",
+          "percent": "82"
+        },
+        {
+          "timestamp": "4746.000000",
+          "percent": "83"
+        },
+        {
+          "timestamp": "4797.000000",
+          "percent": "83"
+        },
+        {
+          "timestamp": "4913.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "4931.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "4946.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "4963.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "4979.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "4995.000000",
+          "percent": "85"
+        },
+        {
+          "timestamp": "5011.000000",
+          "percent": "85"
+        },
+        {
+          "timestamp": "5028.000000",
+          "percent": "85"
+        },
+        {
+          "timestamp": "5045.000000",
+          "percent": "85"
+        },
+        {
+          "timestamp": "5063.000000",
+          "percent": "85"
+        },
+        {
+          "timestamp": "5080.000000",
+          "percent": "85"
+        },
+        {
+          "timestamp": "5096.000000",
+          "percent": "85"
+        },
+        {
+          "timestamp": "5112.000000",
+          "percent": "85"
+        },
+        {
+          "timestamp": "5129.000000",
+          "percent": "86"
+        },
+        {
+          "timestamp": "5147.000000",
+          "percent": "86"
+        },
+        {
+          "timestamp": "5162.000000",
+          "percent": "86"
+        },
+        {
+          "timestamp": "5178.000000",
+          "percent": "86"
+        },
+        {
+          "timestamp": "5197.000000",
+          "percent": "86"
+        },
+        {
+          "timestamp": "5213.000000",
+          "percent": "86"
+        },
+        {
+          "timestamp": "5229.000000",
+          "percent": "86"
+        },
+        {
+          "timestamp": "5246.000000",
+          "percent": "86"
+        },
+        {
+          "timestamp": "5262.000000",
+          "percent": "87"
+        },
+        {
+          "timestamp": "5280.000000",
+          "percent": "87"
+        },
+        {
+          "timestamp": "5295.000000",
+          "percent": "87"
+        },
+        {
+          "timestamp": "5312.000000",
+          "percent": "87"
+        },
+        {
+          "timestamp": "5328.000000",
+          "percent": "87"
+        },
+        {
+          "timestamp": "5347.000000",
+          "percent": "87"
+        },
+        {
+          "timestamp": "5365.000000",
+          "percent": "87"
+        },
+        {
+          "timestamp": "5381.000000",
+          "percent": "87"
+        },
+        {
+          "timestamp": "5396.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "5412.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "5527.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "5594.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "5611.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "5628.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "5679.000000",
+          "percent": "90"
+        },
+        {
+          "timestamp": "5695.000000",
+          "percent": "90"
+        },
+        {
+          "timestamp": "5712.000000",
+          "percent": "90"
+        },
+        {
+          "timestamp": "5729.000000",
+          "percent": "90"
+        },
+        {
+          "timestamp": "5745.000000",
+          "percent": "90"
+        },
+        {
+          "timestamp": "5760.000000",
+          "percent": "90"
+        },
+        {
+          "timestamp": "5779.000000",
+          "percent": "90"
+        },
+        {
+          "timestamp": "5812.000000",
+          "percent": "91"
+        },
+        {
+          "timestamp": "5828.000000",
+          "percent": "91"
+        },
+        {
+          "timestamp": "5844.000000",
+          "percent": "91"
+        },
+        {
+          "timestamp": "5863.000000",
+          "percent": "91"
+        },
+        {
+          "timestamp": "5878.000000",
+          "percent": "91"
+        },
+        {
+          "timestamp": "5913.000000",
+          "percent": "91"
+        },
+        {
+          "timestamp": "5928.000000",
+          "percent": "91"
+        },
+        {
+          "timestamp": "5945.000000",
+          "percent": "92"
+        },
+        {
+          "timestamp": "5962.000000",
+          "percent": "92"
+        },
+        {
+          "timestamp": "5979.000000",
+          "percent": "92"
+        },
+        {
+          "timestamp": "5994.000000",
+          "percent": "92"
+        },
+        {
+          "timestamp": "6013.000000",
+          "percent": "92"
+        },
+        {
+          "timestamp": "6030.000000",
+          "percent": "92"
+        },
+        {
+          "timestamp": "6044.000000",
+          "percent": "92"
+        },
+        {
+          "timestamp": "6080.000000",
+          "percent": "93"
+        },
+        {
+          "timestamp": "6096.000000",
+          "percent": "93"
+        },
+        {
+          "timestamp": "6127.000000",
+          "percent": "93"
+        },
+        {
+          "timestamp": "6144.000000",
+          "percent": "93"
+        },
+        {
+          "timestamp": "6163.000000",
+          "percent": "93"
+        },
+        {
+          "timestamp": "6243.000000",
+          "percent": "93"
+        },
+        {
+          "timestamp": "6281.000000",
+          "percent": "94"
+        },
+        {
+          "timestamp": "6361.000000",
+          "percent": "94"
+        },
+        {
+          "timestamp": "6377.000000",
+          "percent": "94"
+        },
+        {
+          "timestamp": "6394.000000",
+          "percent": "94"
+        },
+        {
+          "timestamp": "6411.000000",
+          "percent": "94"
+        },
+        {
+          "timestamp": "6426.000000",
+          "percent": "94"
+        },
+        {
+          "timestamp": "6444.000000",
+          "percent": "94"
+        },
+        {
+          "timestamp": "6478.000000",
+          "percent": "94"
+        },
+        {
+          "timestamp": "6496.000000",
+          "percent": "95"
+        },
+        {
+          "timestamp": "6514.000000",
+          "percent": "95"
+        },
+        {
+          "timestamp": "6530.000000",
+          "percent": "95"
+        },
+        {
+          "timestamp": "6548.000000",
+          "percent": "96"
+        },
+        {
+          "timestamp": "6563.000000",
+          "percent": "96"
+        },
+        {
+          "timestamp": "6580.000000",
+          "percent": "96"
+        },
+        {
+          "timestamp": "6597.000000",
+          "percent": "96"
+        },
+        {
+          "timestamp": "6615.000000",
+          "percent": "96"
+        },
+        {
+          "timestamp": "6710.000000",
+          "percent": "96"
+        },
+        {
+          "timestamp": "6729.000000",
+          "percent": "96"
+        },
+        {
+          "timestamp": "6744.000000",
+          "percent": "96"
+        },
+        {
+          "timestamp": "6766.000000",
+          "percent": "96"
+        },
+        {
+          "timestamp": "6775.000000",
+          "percent": "96"
+        },
+        {
+          "timestamp": "6794.000000",
+          "percent": "96"
+        },
+        {
+          "timestamp": "6928.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "6961.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "6981.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7010.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7026.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7041.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7060.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7076.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7177.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7193.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7212.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7227.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7244.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7342.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7358.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7378.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7391.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7411.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7425.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7445.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7458.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7475.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7493.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7509.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7527.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7540.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7560.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7576.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7593.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7609.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7625.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7647.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7659.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7675.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7693.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7712.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7727.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7742.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7762.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7776.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7794.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7813.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7825.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7847.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7856.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7875.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7895.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7907.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7923.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7939.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7957.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7974.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "7990.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "8011.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "8025.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "8042.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "8058.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "8079.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "8092.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "8107.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "8130.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "8139.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "8160.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "8172.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "8191.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "8207.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "8223.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "8240.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "8258.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "8275.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "8291.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "8307.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "8324.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "8342.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "8357.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "8375.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "8390.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "8406.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "8640.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "8706.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "9338.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "9352.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "9374.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "9386.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "9470.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "9489.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "9502.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "9522.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "9537.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "9554.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "9571.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "9589.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "9603.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "9620.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "9638.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "9656.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "9674.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "9690.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "9705.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "9723.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "9737.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "9756.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "9771.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "9790.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "9806.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "9823.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "9839.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "9856.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "9872.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "9890.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "9905.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "9923.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "9937.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "9955.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "9971.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "9989.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "10004.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "10022.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "10037.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "10053.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "10072.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "10087.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "10103.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "10120.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "10138.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "10153.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "10174.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "10187.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "10208.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "10221.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "10237.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "10253.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "10269.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "10286.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "10302.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "10322.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "10337.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "10356.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "10368.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "10387.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "10402.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "10419.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "10636.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "10700.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "11333.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "11350.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "11372.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "11381.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "11399.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "11418.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "11433.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "11450.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "11470.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "11481.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "11500.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "11519.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "11531.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "11551.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "11565.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "11585.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "11598.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "11620.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "11631.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "11649.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "11667.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "11684.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "11699.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "11716.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "11733.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "11749.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "11766.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "11785.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "11798.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "11817.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "11835.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "11850.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "11867.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "11884.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "11901.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "11917.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "11934.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "11949.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "11967.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "11984.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "12000.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "12016.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "12034.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "12048.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "12067.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "12083.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "12099.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "12117.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "12133.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "12148.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "12234.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "12247.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "12269.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "12283.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "12300.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "12319.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "12332.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "12351.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "12366.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "12380.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "12396.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "12629.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "12695.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "13347.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13360.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13377.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13395.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13414.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13427.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13444.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13463.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13479.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13495.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13511.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13533.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13545.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13560.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13579.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13596.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13611.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13627.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13648.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13665.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13678.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13694.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13712.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13729.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13746.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13764.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13780.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13797.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13814.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13827.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13849.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13862.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13878.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13894.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13914.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13930.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13944.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13962.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13980.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13995.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "14015.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "14031.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "14047.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "14062.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "14079.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "14100.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "14111.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "14126.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "14145.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "14164.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "14181.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "14195.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "14211.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "14228.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "14248.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "14259.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "14278.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "14299.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "14393.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "14408.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "14624.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "14691.000000",
+          "percent": "100"
+        }
+      ],
+      "SpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "560.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "2056.000000",
+          "percent": "66"
+        },
+        {
+          "timestamp": "2089.000000",
+          "percent": "66"
+        },
+        {
+          "timestamp": "2104.000000",
+          "percent": "66"
+        },
+        {
+          "timestamp": "2121.000000",
+          "percent": "66"
+        },
+        {
+          "timestamp": "2155.000000",
+          "percent": "66"
+        },
+        {
+          "timestamp": "2586.000000",
+          "percent": "66"
+        },
+        {
+          "timestamp": "2604.000000",
+          "percent": "66"
+        },
+        {
+          "timestamp": "2620.000000",
+          "percent": "66"
+        },
+        {
+          "timestamp": "2639.000000",
+          "percent": "66"
+        },
+        {
+          "timestamp": "3086.000000",
+          "percent": "66"
+        },
+        {
+          "timestamp": "3400.000000",
+          "percent": "66"
+        },
+        {
+          "timestamp": "3416.000000",
+          "percent": "66"
+        },
+        {
+          "timestamp": "3435.000000",
+          "percent": "66"
+        },
+        {
+          "timestamp": "3449.000000",
+          "percent": "66"
+        },
+        {
+          "timestamp": "4515.000000",
+          "percent": "69"
+        },
+        {
+          "timestamp": "4532.000000",
+          "percent": "69"
+        },
+        {
+          "timestamp": "4549.000000",
+          "percent": "69"
+        },
+        {
+          "timestamp": "4614.000000",
+          "percent": "82"
+        },
+        {
+          "timestamp": "4630.000000",
+          "percent": "82"
+        },
+        {
+          "timestamp": "4647.000000",
+          "percent": "82"
+        },
+        {
+          "timestamp": "4663.000000",
+          "percent": "82"
+        },
+        {
+          "timestamp": "4680.000000",
+          "percent": "82"
+        },
+        {
+          "timestamp": "4696.000000",
+          "percent": "82"
+        },
+        {
+          "timestamp": "4746.000000",
+          "percent": "82"
+        },
+        {
+          "timestamp": "4797.000000",
+          "percent": "82"
+        },
+        {
+          "timestamp": "4913.000000",
+          "percent": "83"
+        },
+        {
+          "timestamp": "4931.000000",
+          "percent": "83"
+        },
+        {
+          "timestamp": "4946.000000",
+          "percent": "83"
+        },
+        {
+          "timestamp": "4963.000000",
+          "percent": "83"
+        },
+        {
+          "timestamp": "4979.000000",
+          "percent": "83"
+        },
+        {
+          "timestamp": "4995.000000",
+          "percent": "83"
+        },
+        {
+          "timestamp": "5011.000000",
+          "percent": "83"
+        },
+        {
+          "timestamp": "5028.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5045.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5063.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5080.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5096.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5112.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5129.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5147.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5162.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5178.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5197.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5213.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5229.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5246.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5262.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5280.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5295.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5312.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5328.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5347.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5365.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5381.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5396.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5412.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5527.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5594.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5611.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5628.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5679.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5695.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5712.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5729.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5745.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5760.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5779.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5812.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5828.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5844.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5863.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5878.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5913.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5928.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5945.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5962.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5979.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "5994.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "6013.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "6030.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "6044.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "6080.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "6096.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "6127.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "6144.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "6163.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "6243.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "6281.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "6361.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "6377.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "6394.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "6411.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "6426.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "6444.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "6478.000000",
+          "percent": "96"
+        },
+        {
+          "timestamp": "6496.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "6514.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "6530.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "6548.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "6563.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "6580.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "6597.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "6615.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "6710.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "6729.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "6744.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "6766.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "6775.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "6794.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "6928.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "6961.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "6981.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7010.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7026.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7041.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7060.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7076.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7177.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7193.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7212.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7227.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7244.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7342.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7358.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7378.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7391.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7411.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7425.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7445.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7458.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7475.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7493.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7509.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7527.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7540.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7560.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7576.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7593.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7609.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7625.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7647.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7659.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7675.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7693.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7712.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7727.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7742.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7762.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7776.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7794.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7813.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7825.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7847.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7856.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7875.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7895.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7907.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7923.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7939.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7957.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7974.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "7990.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "8011.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "8025.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "8042.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "8058.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "8079.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "8092.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "8107.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "8130.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "8139.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "8160.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "8172.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "8191.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "8207.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "8223.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "8240.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "8258.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "8275.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "8291.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "8307.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "8324.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "8342.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "8357.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "8375.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "8390.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "8406.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "8640.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "8706.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "9338.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "9352.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "9374.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "9386.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "9470.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "9489.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "9502.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "9522.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "9537.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "9554.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "9571.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "9589.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "9603.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "9620.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "9638.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "9656.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "9674.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "9690.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "9705.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "9723.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "9737.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "9756.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "9771.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "9790.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "9806.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "9823.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "9839.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "9856.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "9872.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "9890.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "9905.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "9923.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "9937.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "9955.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "9971.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "9989.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "10004.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "10022.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "10037.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "10053.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "10072.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "10087.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "10103.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "10120.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "10138.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "10153.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "10174.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "10187.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "10208.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "10221.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "10237.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "10253.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "10269.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "10286.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "10302.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "10322.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "10337.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "10356.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "10368.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "10387.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "10402.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "10419.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "10636.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "10700.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "11333.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "11350.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "11372.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "11381.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "11399.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "11418.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "11433.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "11450.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "11470.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "11481.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "11500.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "11519.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "11531.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "11551.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "11565.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "11585.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "11598.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "11620.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "11631.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "11649.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "11667.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "11684.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "11699.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "11716.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "11733.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "11749.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "11766.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "11785.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "11798.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "11817.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "11835.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "11850.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "11867.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "11884.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "11901.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "11917.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "11934.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "11949.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "11967.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "11984.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "12000.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "12016.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "12034.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "12048.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "12067.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "12083.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "12099.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "12117.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "12133.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "12148.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "12234.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "12247.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "12269.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "12283.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "12300.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "12319.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "12332.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "12351.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "12366.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "12380.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "12396.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "12629.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "12695.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13347.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13360.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13377.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13395.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13414.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13427.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13444.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13463.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13479.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13495.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13511.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13533.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13545.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13560.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13579.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13596.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13611.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13627.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13648.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13665.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13678.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13694.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13712.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13729.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13746.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13764.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13780.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13797.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13814.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13827.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13849.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13862.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13878.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13894.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13914.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13930.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13944.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13962.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13980.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13995.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "14015.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "14031.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "14047.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "14062.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "14079.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "14100.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "14111.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "14126.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "14145.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "14164.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "14181.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "14195.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "14211.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "14228.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "14248.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "14259.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "14278.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "14299.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "14393.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "14408.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "14624.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "14691.000000",
+          "percent": "100"
+        }
+      ]
+    }
+  },
+  "chrome": {
+    "filmstrip_interval": 100,
+    "filmstrip": {
+      "00000": "2025-01-29-android-lnironshop-chrome_00000.webp",
+      "00100": "2025-01-29-android-lnironshop-chrome_00100.webp",
+      "00200": "2025-01-29-android-lnironshop-chrome_00200.webp",
+      "00300": "2025-01-29-android-lnironshop-chrome_00300.webp",
+      "00400": "2025-01-29-android-lnironshop-chrome_00400.webp",
+      "00500": "2025-01-29-android-lnironshop-chrome_00500.webp",
+      "00600": "2025-01-29-android-lnironshop-chrome_00600.webp",
+      "00700": "2025-01-29-android-lnironshop-chrome_00700.webp",
+      "00800": "2025-01-29-android-lnironshop-chrome_00800.webp",
+      "00900": "2025-01-29-android-lnironshop-chrome_00900.webp",
+      "01000": "2025-01-29-android-lnironshop-chrome_01000.webp",
+      "01100": "2025-01-29-android-lnironshop-chrome_01100.webp",
+      "01200": "2025-01-29-android-lnironshop-chrome_01200.webp",
+      "01300": "2025-01-29-android-lnironshop-chrome_01300.webp",
+      "01400": "2025-01-29-android-lnironshop-chrome_01400.webp",
+      "01500": "2025-01-29-android-lnironshop-chrome_01500.webp",
+      "01600": "2025-01-29-android-lnironshop-chrome_01600.webp",
+      "01700": "2025-01-29-android-lnironshop-chrome_01700.webp",
+      "01800": "2025-01-29-android-lnironshop-chrome_01800.webp",
+      "01900": "2025-01-29-android-lnironshop-chrome_01900.webp",
+      "02000": "2025-01-29-android-lnironshop-chrome_02000.webp",
+      "02100": "2025-01-29-android-lnironshop-chrome_02100.webp",
+      "02200": "2025-01-29-android-lnironshop-chrome_02200.webp",
+      "02300": "2025-01-29-android-lnironshop-chrome_02300.webp",
+      "02400": "2025-01-29-android-lnironshop-chrome_02400.webp",
+      "02500": "2025-01-29-android-lnironshop-chrome_02500.webp",
+      "02600": "2025-01-29-android-lnironshop-chrome_02600.webp",
+      "02700": "2025-01-29-android-lnironshop-chrome_02700.webp",
+      "02800": "2025-01-29-android-lnironshop-chrome_02800.webp",
+      "02900": "2025-01-29-android-lnironshop-chrome_02900.webp",
+      "03000": "2025-01-29-android-lnironshop-chrome_03000.webp",
+      "03100": "2025-01-29-android-lnironshop-chrome_03100.webp",
+      "03200": "2025-01-29-android-lnironshop-chrome_03200.webp",
+      "03300": "2025-01-29-android-lnironshop-chrome_03300.webp",
+      "03400": "2025-01-29-android-lnironshop-chrome_03400.webp",
+      "03500": "2025-01-29-android-lnironshop-chrome_03500.webp",
+      "03600": "2025-01-29-android-lnironshop-chrome_03600.webp",
+      "03700": "2025-01-29-android-lnironshop-chrome_03700.webp",
+      "03800": "2025-01-29-android-lnironshop-chrome_03800.webp",
+      "03900": "2025-01-29-android-lnironshop-chrome_03900.webp",
+      "04000": "2025-01-29-android-lnironshop-chrome_04000.webp",
+      "04100": "2025-01-29-android-lnironshop-chrome_04100.webp",
+      "04200": "2025-01-29-android-lnironshop-chrome_04200.webp",
+      "04300": "2025-01-29-android-lnironshop-chrome_04300.webp",
+      "04400": "2025-01-29-android-lnironshop-chrome_04400.webp",
+      "04500": "2025-01-29-android-lnironshop-chrome_04500.webp",
+      "04600": "2025-01-29-android-lnironshop-chrome_04600.webp",
+      "04700": "2025-01-29-android-lnironshop-chrome_04700.webp",
+      "04800": "2025-01-29-android-lnironshop-chrome_04800.webp",
+      "04900": "2025-01-29-android-lnironshop-chrome_04900.webp",
+      "05000": "2025-01-29-android-lnironshop-chrome_05000.webp",
+      "05100": "2025-01-29-android-lnironshop-chrome_05100.webp",
+      "05200": "2025-01-29-android-lnironshop-chrome_05200.webp",
+      "05300": "2025-01-29-android-lnironshop-chrome_05300.webp",
+      "05400": "2025-01-29-android-lnironshop-chrome_05400.webp",
+      "05500": "2025-01-29-android-lnironshop-chrome_05500.webp",
+      "05600": "2025-01-29-android-lnironshop-chrome_05600.webp",
+      "05700": "2025-01-29-android-lnironshop-chrome_05700.webp",
+      "05800": "2025-01-29-android-lnironshop-chrome_05800.webp",
+      "05900": "2025-01-29-android-lnironshop-chrome_05900.webp",
+      "06000": "2025-01-29-android-lnironshop-chrome_06000.webp",
+      "06100": "2025-01-29-android-lnironshop-chrome_06100.webp",
+      "06200": "2025-01-29-android-lnironshop-chrome_06200.webp",
+      "06300": "2025-01-29-android-lnironshop-chrome_06300.webp",
+      "06400": "2025-01-29-android-lnironshop-chrome_06400.webp",
+      "06500": "2025-01-29-android-lnironshop-chrome_06500.webp",
+      "06600": "2025-01-29-android-lnironshop-chrome_06600.webp",
+      "06700": "2025-01-29-android-lnironshop-chrome_06700.webp",
+      "06800": "2025-01-29-android-lnironshop-chrome_06800.webp",
+      "06900": "2025-01-29-android-lnironshop-chrome_06900.webp",
+      "07000": "2025-01-29-android-lnironshop-chrome_07000.webp",
+      "07100": "2025-01-29-android-lnironshop-chrome_07100.webp",
+      "07200": "2025-01-29-android-lnironshop-chrome_07200.webp",
+      "07300": "2025-01-29-android-lnironshop-chrome_07300.webp",
+      "07400": "2025-01-29-android-lnironshop-chrome_07400.webp",
+      "07500": "2025-01-29-android-lnironshop-chrome_07500.webp",
+      "07600": "2025-01-29-android-lnironshop-chrome_07600.webp",
+      "07700": "2025-01-29-android-lnironshop-chrome_07700.webp",
+      "07800": "2025-01-29-android-lnironshop-chrome_07800.webp",
+      "07900": "2025-01-29-android-lnironshop-chrome_07900.webp",
+      "08000": "2025-01-29-android-lnironshop-chrome_08000.webp",
+      "08100": "2025-01-29-android-lnironshop-chrome_08100.webp",
+      "08200": "2025-01-29-android-lnironshop-chrome_08200.webp",
+      "08300": "2025-01-29-android-lnironshop-chrome_08300.webp",
+      "08400": "2025-01-29-android-lnironshop-chrome_08400.webp",
+      "08500": "2025-01-29-android-lnironshop-chrome_08500.webp",
+      "08600": "2025-01-29-android-lnironshop-chrome_08600.webp",
+      "08700": "2025-01-29-android-lnironshop-chrome_08700.webp",
+      "08800": "2025-01-29-android-lnironshop-chrome_08800.webp",
+      "08900": "2025-01-29-android-lnironshop-chrome_08900.webp",
+      "09000": "2025-01-29-android-lnironshop-chrome_09000.webp",
+      "09100": "2025-01-29-android-lnironshop-chrome_09100.webp",
+      "09200": "2025-01-29-android-lnironshop-chrome_09200.webp",
+      "09300": "2025-01-29-android-lnironshop-chrome_09300.webp",
+      "09400": "2025-01-29-android-lnironshop-chrome_09400.webp",
+      "09500": "2025-01-29-android-lnironshop-chrome_09500.webp",
+      "09600": "2025-01-29-android-lnironshop-chrome_09600.webp",
+      "09700": "2025-01-29-android-lnironshop-chrome_09700.webp",
+      "09800": "2025-01-29-android-lnironshop-chrome_09800.webp",
+      "09900": "2025-01-29-android-lnironshop-chrome_09900.webp"
+    },
+    "power": {},
+    "metrics": {
+      "fcp": {
+        "median": "2741",
+        "stddev": "359.000000",
+        "rsd": "12.651386"
+      },
+      "largestContentfulPaintloadTime": {
+        "median": "0",
+        "stddev": "765.000000",
+        "rsd": "435.889894"
+      },
+      "largestContentfulPaintrenderTime": {
+        "median": "2741",
+        "stddev": "366.000000",
+        "rsd": "12.869580"
+      },
+      "redirectStart": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "redirectEnd": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "fetchStart": {
+        "median": "843",
+        "stddev": "308.000000",
+        "rsd": "32.217759"
+      },
+      "domainLookupStart": {
+        "median": "843",
+        "stddev": "308.000000",
+        "rsd": "32.217759"
+      },
+      "connectStart": {
+        "median": "843",
+        "stddev": "308.000000",
+        "rsd": "32.217759"
+      },
+      "requestStart": {
+        "median": "855",
+        "stddev": "308.000000",
+        "rsd": "31.658040"
+      },
+      "responseStart": {
+        "median": "1421",
+        "stddev": "306.000000",
+        "rsd": "19.908827"
+      },
+      "domInteractive": {
+        "median": "3614",
+        "stddev": "417.000000",
+        "rsd": "11.148556"
+      },
+      "domComplete": {
+        "median": "4613",
+        "stddev": "1340.000000",
+        "rsd": "25.896804"
+      },
+      "loadEventEnd": {
+        "median": "4614",
+        "stddev": "1340.000000",
+        "rsd": "25.902910"
+      },
+      "SpeedIndex": {
+        "median": "2337",
+        "stddev": "151.000000",
+        "rsd": "6.420787"
+      },
+      "VisualComplete85": {
+        "median": "5790",
+        "stddev": "503.000000",
+        "rsd": "8.497269"
+      },
+      "LastVisualChange": {
+        "median": "12238",
+        "stddev": "2671.000000",
+        "rsd": "21.384615"
+      },
+      "lcp_element": "\"\"<div style='box-sizing: border-box;'></div>\"\"",
+      "PerceptualSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "113.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "129.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "147.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "163.000000",
+          "percent": "4"
+        },
+        {
+          "timestamp": "180.000000",
+          "percent": "4"
+        },
+        {
+          "timestamp": "198.000000",
+          "percent": "4"
+        },
+        {
+          "timestamp": "213.000000",
+          "percent": "5"
+        },
+        {
+          "timestamp": "232.000000",
+          "percent": "5"
+        },
+        {
+          "timestamp": "246.000000",
+          "percent": "5"
+        },
+        {
+          "timestamp": "262.000000",
+          "percent": "5"
+        },
+        {
+          "timestamp": "283.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "295.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "313.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "329.000000",
+          "percent": "7"
+        },
+        {
+          "timestamp": "347.000000",
+          "percent": "7"
+        },
+        {
+          "timestamp": "366.000000",
+          "percent": "7"
+        },
+        {
+          "timestamp": "379.000000",
+          "percent": "8"
+        },
+        {
+          "timestamp": "396.000000",
+          "percent": "8"
+        },
+        {
+          "timestamp": "412.000000",
+          "percent": "8"
+        },
+        {
+          "timestamp": "432.000000",
+          "percent": "9"
+        },
+        {
+          "timestamp": "2008.000000",
+          "percent": "39"
+        },
+        {
+          "timestamp": "2026.000000",
+          "percent": "39"
+        },
+        {
+          "timestamp": "2310.000000",
+          "percent": "45"
+        },
+        {
+          "timestamp": "3539.000000",
+          "percent": "66"
+        },
+        {
+          "timestamp": "3556.000000",
+          "percent": "66"
+        },
+        {
+          "timestamp": "3856.000000",
+          "percent": "72"
+        },
+        {
+          "timestamp": "4054.000000",
+          "percent": "75"
+        },
+        {
+          "timestamp": "4188.000000",
+          "percent": "77"
+        },
+        {
+          "timestamp": "4287.000000",
+          "percent": "79"
+        },
+        {
+          "timestamp": "4403.000000",
+          "percent": "81"
+        },
+        {
+          "timestamp": "4503.000000",
+          "percent": "83"
+        },
+        {
+          "timestamp": "4702.000000",
+          "percent": "87"
+        },
+        {
+          "timestamp": "4718.000000",
+          "percent": "87"
+        },
+        {
+          "timestamp": "4751.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "4800.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "4817.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "4837.000000",
+          "percent": "90"
+        },
+        {
+          "timestamp": "4850.000000",
+          "percent": "90"
+        },
+        {
+          "timestamp": "4867.000000",
+          "percent": "90"
+        },
+        {
+          "timestamp": "4884.000000",
+          "percent": "91"
+        },
+        {
+          "timestamp": "4900.000000",
+          "percent": "91"
+        },
+        {
+          "timestamp": "4917.000000",
+          "percent": "91"
+        },
+        {
+          "timestamp": "4933.000000",
+          "percent": "91"
+        },
+        {
+          "timestamp": "4951.000000",
+          "percent": "91"
+        },
+        {
+          "timestamp": "4969.000000",
+          "percent": "91"
+        },
+        {
+          "timestamp": "4984.000000",
+          "percent": "92"
+        },
+        {
+          "timestamp": "5004.000000",
+          "percent": "92"
+        },
+        {
+          "timestamp": "5021.000000",
+          "percent": "92"
+        },
+        {
+          "timestamp": "5037.000000",
+          "percent": "92"
+        },
+        {
+          "timestamp": "5054.000000",
+          "percent": "92"
+        },
+        {
+          "timestamp": "5071.000000",
+          "percent": "92"
+        },
+        {
+          "timestamp": "5086.000000",
+          "percent": "92"
+        },
+        {
+          "timestamp": "5103.000000",
+          "percent": "93"
+        },
+        {
+          "timestamp": "5119.000000",
+          "percent": "93"
+        },
+        {
+          "timestamp": "5134.000000",
+          "percent": "93"
+        },
+        {
+          "timestamp": "5151.000000",
+          "percent": "93"
+        },
+        {
+          "timestamp": "5317.000000",
+          "percent": "94"
+        },
+        {
+          "timestamp": "5333.000000",
+          "percent": "95"
+        },
+        {
+          "timestamp": "5649.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "5684.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "5766.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "5832.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "5899.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "5915.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "5936.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "6033.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "6116.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "6131.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "6365.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "6964.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7962.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7977.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "8862.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "9757.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "13211.000000",
+          "percent": "100"
+        }
+      ],
+      "ContentfulSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "113.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "129.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "147.000000",
+          "percent": "4"
+        },
+        {
+          "timestamp": "163.000000",
+          "percent": "4"
+        },
+        {
+          "timestamp": "180.000000",
+          "percent": "5"
+        },
+        {
+          "timestamp": "198.000000",
+          "percent": "5"
+        },
+        {
+          "timestamp": "213.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "232.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "246.000000",
+          "percent": "6"
+        },
+        {
+          "timestamp": "262.000000",
+          "percent": "7"
+        },
+        {
+          "timestamp": "283.000000",
+          "percent": "8"
+        },
+        {
+          "timestamp": "295.000000",
+          "percent": "8"
+        },
+        {
+          "timestamp": "313.000000",
+          "percent": "8"
+        },
+        {
+          "timestamp": "329.000000",
+          "percent": "9"
+        },
+        {
+          "timestamp": "347.000000",
+          "percent": "9"
+        },
+        {
+          "timestamp": "366.000000",
+          "percent": "10"
+        },
+        {
+          "timestamp": "379.000000",
+          "percent": "10"
+        },
+        {
+          "timestamp": "396.000000",
+          "percent": "11"
+        },
+        {
+          "timestamp": "412.000000",
+          "percent": "11"
+        },
+        {
+          "timestamp": "432.000000",
+          "percent": "12"
+        },
+        {
+          "timestamp": "2008.000000",
+          "percent": "58"
+        },
+        {
+          "timestamp": "2026.000000",
+          "percent": "58"
+        },
+        {
+          "timestamp": "2310.000000",
+          "percent": "58"
+        },
+        {
+          "timestamp": "3539.000000",
+          "percent": "58"
+        },
+        {
+          "timestamp": "3556.000000",
+          "percent": "58"
+        },
+        {
+          "timestamp": "3856.000000",
+          "percent": "58"
+        },
+        {
+          "timestamp": "4054.000000",
+          "percent": "58"
+        },
+        {
+          "timestamp": "4188.000000",
+          "percent": "58"
+        },
+        {
+          "timestamp": "4287.000000",
+          "percent": "58"
+        },
+        {
+          "timestamp": "4403.000000",
+          "percent": "58"
+        },
+        {
+          "timestamp": "4503.000000",
+          "percent": "60"
+        },
+        {
+          "timestamp": "4702.000000",
+          "percent": "62"
+        },
+        {
+          "timestamp": "4718.000000",
+          "percent": "62"
+        },
+        {
+          "timestamp": "4751.000000",
+          "percent": "62"
+        },
+        {
+          "timestamp": "4800.000000",
+          "percent": "63"
+        },
+        {
+          "timestamp": "4817.000000",
+          "percent": "63"
+        },
+        {
+          "timestamp": "4837.000000",
+          "percent": "64"
+        },
+        {
+          "timestamp": "4850.000000",
+          "percent": "64"
+        },
+        {
+          "timestamp": "4867.000000",
+          "percent": "64"
+        },
+        {
+          "timestamp": "4884.000000",
+          "percent": "64"
+        },
+        {
+          "timestamp": "4900.000000",
+          "percent": "65"
+        },
+        {
+          "timestamp": "4917.000000",
+          "percent": "65"
+        },
+        {
+          "timestamp": "4933.000000",
+          "percent": "65"
+        },
+        {
+          "timestamp": "4951.000000",
+          "percent": "65"
+        },
+        {
+          "timestamp": "4969.000000",
+          "percent": "66"
+        },
+        {
+          "timestamp": "4984.000000",
+          "percent": "66"
+        },
+        {
+          "timestamp": "5004.000000",
+          "percent": "66"
+        },
+        {
+          "timestamp": "5021.000000",
+          "percent": "67"
+        },
+        {
+          "timestamp": "5037.000000",
+          "percent": "67"
+        },
+        {
+          "timestamp": "5054.000000",
+          "percent": "67"
+        },
+        {
+          "timestamp": "5071.000000",
+          "percent": "67"
+        },
+        {
+          "timestamp": "5086.000000",
+          "percent": "68"
+        },
+        {
+          "timestamp": "5103.000000",
+          "percent": "68"
+        },
+        {
+          "timestamp": "5119.000000",
+          "percent": "68"
+        },
+        {
+          "timestamp": "5134.000000",
+          "percent": "69"
+        },
+        {
+          "timestamp": "5151.000000",
+          "percent": "69"
+        },
+        {
+          "timestamp": "5317.000000",
+          "percent": "72"
+        },
+        {
+          "timestamp": "5333.000000",
+          "percent": "72"
+        },
+        {
+          "timestamp": "5649.000000",
+          "percent": "77"
+        },
+        {
+          "timestamp": "5684.000000",
+          "percent": "78"
+        },
+        {
+          "timestamp": "5766.000000",
+          "percent": "79"
+        },
+        {
+          "timestamp": "5832.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "5899.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "5915.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "5936.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "6033.000000",
+          "percent": "81"
+        },
+        {
+          "timestamp": "6116.000000",
+          "percent": "81"
+        },
+        {
+          "timestamp": "6131.000000",
+          "percent": "81"
+        },
+        {
+          "timestamp": "6365.000000",
+          "percent": "82"
+        },
+        {
+          "timestamp": "6964.000000",
+          "percent": "83"
+        },
+        {
+          "timestamp": "7962.000000",
+          "percent": "86"
+        },
+        {
+          "timestamp": "7977.000000",
+          "percent": "86"
+        },
+        {
+          "timestamp": "8862.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "9757.000000",
+          "percent": "90"
+        },
+        {
+          "timestamp": "13211.000000",
+          "percent": "100"
+        }
+      ],
+      "SpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "113.000000",
+          "percent": "1"
+        },
+        {
+          "timestamp": "129.000000",
+          "percent": "46"
+        },
+        {
+          "timestamp": "147.000000",
+          "percent": "46"
+        },
+        {
+          "timestamp": "163.000000",
+          "percent": "46"
+        },
+        {
+          "timestamp": "180.000000",
+          "percent": "46"
+        },
+        {
+          "timestamp": "198.000000",
+          "percent": "46"
+        },
+        {
+          "timestamp": "213.000000",
+          "percent": "46"
+        },
+        {
+          "timestamp": "232.000000",
+          "percent": "46"
+        },
+        {
+          "timestamp": "246.000000",
+          "percent": "46"
+        },
+        {
+          "timestamp": "262.000000",
+          "percent": "46"
+        },
+        {
+          "timestamp": "283.000000",
+          "percent": "46"
+        },
+        {
+          "timestamp": "295.000000",
+          "percent": "46"
+        },
+        {
+          "timestamp": "313.000000",
+          "percent": "46"
+        },
+        {
+          "timestamp": "329.000000",
+          "percent": "46"
+        },
+        {
+          "timestamp": "347.000000",
+          "percent": "46"
+        },
+        {
+          "timestamp": "366.000000",
+          "percent": "46"
+        },
+        {
+          "timestamp": "379.000000",
+          "percent": "46"
+        },
+        {
+          "timestamp": "396.000000",
+          "percent": "46"
+        },
+        {
+          "timestamp": "412.000000",
+          "percent": "46"
+        },
+        {
+          "timestamp": "432.000000",
+          "percent": "46"
+        },
+        {
+          "timestamp": "2008.000000",
+          "percent": "66"
+        },
+        {
+          "timestamp": "2026.000000",
+          "percent": "66"
+        },
+        {
+          "timestamp": "2310.000000",
+          "percent": "66"
+        },
+        {
+          "timestamp": "3539.000000",
+          "percent": "66"
+        },
+        {
+          "timestamp": "3556.000000",
+          "percent": "66"
+        },
+        {
+          "timestamp": "3856.000000",
+          "percent": "66"
+        },
+        {
+          "timestamp": "4054.000000",
+          "percent": "66"
+        },
+        {
+          "timestamp": "4188.000000",
+          "percent": "66"
+        },
+        {
+          "timestamp": "4287.000000",
+          "percent": "66"
+        },
+        {
+          "timestamp": "4403.000000",
+          "percent": "66"
+        },
+        {
+          "timestamp": "4503.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "4702.000000",
+          "percent": "81"
+        },
+        {
+          "timestamp": "4718.000000",
+          "percent": "82"
+        },
+        {
+          "timestamp": "4751.000000",
+          "percent": "82"
+        },
+        {
+          "timestamp": "4800.000000",
+          "percent": "82"
+        },
+        {
+          "timestamp": "4817.000000",
+          "percent": "82"
+        },
+        {
+          "timestamp": "4837.000000",
+          "percent": "82"
+        },
+        {
+          "timestamp": "4850.000000",
+          "percent": "82"
+        },
+        {
+          "timestamp": "4867.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "4884.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "4900.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "4917.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "4933.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "4951.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "4969.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "4984.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "5004.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "5021.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "5037.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "5054.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "5071.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "5086.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "5103.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "5119.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "5134.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "5151.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "5317.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "5333.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "5649.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "5684.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "5766.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "5832.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "5899.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "5915.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "5936.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "6033.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "6116.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "6131.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "6365.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "6964.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7962.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "7977.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "8862.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "9757.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "13211.000000",
+          "percent": "100"
+        }
+      ]
+    }
+  }
+}
