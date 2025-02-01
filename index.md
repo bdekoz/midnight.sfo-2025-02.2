@@ -2,8 +2,6 @@
 - [progressive metrics](/docs/about_1.md)
 - [key to glyphs](/docs/about_2.md)
 
-
-## Results
 ## Results
 - [bkndigital](/pages/2025-01-29-android-bkndigital-aggregate.svg)
 - [ferraraviaggi_it](/pages/2025-01-29-android-ferraraviaggi_it-aggregate.svg)
@@ -44,4 +42,4 @@
 
 
 ## Data
-* [json](https://github.com/bdekoz/midnight.ci-2025-01/tree/main/results)
+* [json](https://github.com/bdekoz/midnight.sfo-2025-01.pixel8/tree/main/results)
