@@ -1,0 +1,52 @@
+https://www.allrecipes.com/
+firefox lcp element: ""https://www.allrecipes.com/thmb/HoUlJ4uVESFamOu0fw_fGe1aiJk=/400x250/filters:no_upscale():max_bytes(150000):strip_icc()/1189502_Baked-Shrimp-Scampi-4x3-e9e6b5daa65b4635985fd701999b8de3.jpg""
+chrome lcp element: ""https://www.allrecipes.com/thmb/Spx1xxRmsDTKFvTvH8iEO0Qd2xU=/400x250/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1189502_Baked-Shrimp-Scampi-4x3-e9e6b5daa65b4635985fd701999b8de3.jpg""
+
+https://www.amazon.com
+firefox lcp element: ""https://m.media-amazon.com/images/I/61IlupYtztL._SX1500_.jpg""
+chrome lcp element: ""https://m.media-amazon.com/images/I/61gGY9AfeSL._SX3000_.jpg""
+
+https://www.bing.com/search?q=restaurants+in+exton+pa+19341
+firefox lcp element: ""<div class='ft_otl b_primtxt'></div>""
+chrome lcp element: ""<div class='b_gwaText' role='contentinfo'></div>""
+
+https://en.m.wikipedia.org/wiki/Main_Page
+firefox lcp element: ""https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/WLF2025Banner.png/798px-WLF2025Banner.png""
+chrome lcp element: ""<p></p>""
+
+https://www.google.com/maps?force=pwa
+firefox lcp element: ""blob:https://www.google.com/81e1cf84-55e6-4f7f-b9d2-18cb8da9bca0""
+chrome lcp element: ""blob:https://www.google.com/21d216f1-cd2d-4184-9372-47d9c3666240""
+
+https://www.google.com/search?q=restaurants+near+me
+firefox lcp element: ""<div style='font-size:13px; line-break: anywhere;'></div>""
+chrome lcp element: ""https://www.google.com/maps/vt/data=SlfxGzYj6Sx60HRv7nLwOCEzKZHE-pGDUH7hG8PaBmPjxylPTV15_DA4DDzHG4Y0R-WP0Qdkhlo92z6NcRvx9PPlfrkNCgqbfEoCMsRXQRkfrrz0ewXkjYWe26ostn_Us3DnStQ7cZLd7bq_GFN_PjcWJr5rWtZdYbEoEtiKKhuUUA--gJj9eqQ_z9srKIbBBLLQco68Mpo3fYV5XttTgfK5mLsGwEY0qTqJUA_3I3kgfarQXtSU9u3oUuplKr2i7Y3R5rIo1tOmEFoALjbVCM-tGWpNkfMPlG-rgKJVrlrt1uMZaORnR2UkZQtU4PzwHQ-9cYQSKDcKS06zRhj9L7iDHg0c8EMbZ5dFYGU8pmATYlY86FgkQ0Ag0-VZp-M8Fsqxki5mpkNhYbL4qnQK_NlIE_HN7rf6FIh6RWQWCubifXDZLWjs8rttFV4xcJYSZt8Rjs1T7rS9t7GBfJdZ1cvf2_6QHM15hD15a5_2bhWzQnBwSNvu5jVAaTLvVlbZFZMJqsEoTOUhtVaccE3huMKd1tg0OUxvNKCfv-jhg9r3MOX_BV4yQKf3FnQRUTlX6ogFaKzsZu1Yrh-3-ak5msgZgobuzaeEtB4rXTHH_Dpt4Khh8pL5phN9tLiClP_iHch5TqqM1oxFfVOD8mGOtYz4jD81UVkpCBRk0rt0ElIjK9TurZ1vAMPOpK8pqhDsCgoAFTsQfE-sVJaobvxY6wWRUZUPmIt44UIg6pcTZ4SUEzMDhGPpdfRyabD8tW0HmPaKmYtOTs9_pjag14l861zRHvQVh3nS0gFxQnm6LAba55cJmFKC9XhdLaYMNDuvHC1qONclAylWiQiFxCb6vi613lf7a_pQzkSG4AhQxeU9I65ElRibaln_QGB83PHr-P5qmkM-_jPdPqqaiWPXJmev15g7zYg01j-rPkVLb8iDf3pLcZwFpQ1HUOFVhAfUzY00LJX7YpM5GOjaA7j1fBXZM9z6qgdUE7MTt2U0-qk7nZCsNyIh5bxtj6bq64Ues-4Dv68sccuKW6XRA04qVhvXV9OoTFh3wUakgWVvrAi99lPMHz5S2xb9taNPnqIqRLo1dmDcXQ1MjKGLlcXTV1bP-bdR8OGm5suCcm3IueveZhhBxBNxho4TyJaDIrE8qz5d-cLgmhw-Zfa7IdyNNiKgP1Z0s4n4tJhJ61es__TxlzqcZtqVQuYH8MX9-oUR8MQyfc92QmbdcU4C_hdbm9PgXuRmtP6hKEORajNAYMvPuRztf3e2iO1GeAOZEOc92z5WU_xHA3An8MgnjD6w5BDqFoa0umOwt-yepA5bYG6nc_PRRAz-1gS7nI4ZRmmv4fsG3Em_bNJA3AzHGYaAZNvYy03VV-_s0GyF5oGu_iCqLmVeOLgufWow6yqt50FLtgrn5qfylWvRDg4_V248FIFuBjP3uBtRQ4WGRDkxrZiiA75stBXp0TUHwqNfsg?h=120&w=380&scale=2""
+
+https://www.instagram.com
+firefox lcp element: ""https://static.cdninstagram.com/rsrc.php/v4/yB/r/E7m8ZCMOFDS.png""
+chrome lcp element: ""<h1 class='_ap3a _add8 _aacu _aacx _aad6 _aadb' dir='auto'></h1>""
+
+https://m.ebay-kleinanzeigen.de
+firefox lcp element: ""https://img.kleinanzeigen.de/api/v1/prod-ads/images/69/69ef7ba0-88cc-4e29-a7e5-6b3faf14544c?rule=$_35.AUTO""
+chrome lcp element: ""<p class='jsx-2028411237 Paragraph small'></p>""
+
+https://m.ebay-kleinanzeigen.de/s-anzeigen/auf-zeit-wg-berlin/zimmer/c199-l3331
+firefox lcp element: ""https://img.kleinanzeigen.de/api/v1/prod-ads/images/ea/ea5672bd-7d86-476b-a449-6bc27e725ab3?rule=$_12.AUTO""
+chrome lcp element: ""<p class='jsx-2028411237 Paragraph small'></p>""
+
+https://m.facebook.com
+firefox lcp element: ""https://z-m-static.xx.fbcdn.net/rsrc.php/v4/yh/r/Sg2QOE06yVC.png""
+chrome lcp element: ""<div class='wbloks_119' style='display: -webkit-box; overflow: hidden; text-overflow: ellipsis; -webkit-box-orient: vertical; -webkit-line-clamp: 1; word-break: break-word; max-height: 999999px;'></div>""
+
+https://m.youtube.com
+firefox lcp element: ""<h2 class='feed-nudge-title'></h2>""
+chrome lcp element: ""<div class='feed-nudge-subtitle'></div>""
+
+https://www.reddit.com
+firefox lcp element: ""https://b.thumbs.redditmedia.com/phtnPq9TfTQgbaw9g85q_BU0_0-pb0UYbwGe80rkg_A.jpg""
+chrome lcp element: ""<a href='/r/SeveranceAppleTVPlus/comments/1ip0lpv/severance_2x05_trojans_horse_postepisode/' id='post-title-t3_1ip0lpv' slot='title' class='block font-semibold text-neutral-content-strong m-0 visited:text-neutral-content-weak text-14 xs:text-16  mb-xs  overflow-hidden' aria-describedby='feed-post-credit-bar-t3_1ip0lpv'></a>""
+
+https://www.sina.com.cn/
+firefox lcp element: ""https://k.sinaimg.cn/n/news/1_img/upload/6e865411/337/w2048h1489/20250214/8e8c-a8a882b91719434d96ae9cbb8ca8e813.jpg/w710h400z1l50t1q7511a.jpg?by=comos""
+chrome lcp element: ""<h2 data-v-3dadf8e9='' data-v-5f56d9e3='' class='m_f_con_t cm_tit'></h2>""
+
