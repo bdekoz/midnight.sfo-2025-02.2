@@ -4,6 +4,6 @@
 - device: Pixel 8
 - os: Android 15
 
-- iterations: 1/8/20
+- iterations: 20
 
-- variant:
+- variant: talkback on
