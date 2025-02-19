@@ -66,7 +66,7 @@ generate_platform_by_sitelist() {
    done
 }
 
-#generate_platform_by_sitelist "$TPMETADATA" "2025-02-12" "./sitelist.txt"
+generate_platform_by_sitelist "$TPMETADATA1" "2025-02-13" "./sitelist.txt"
 
 # 3
 generate_data_json() {
@@ -90,7 +90,7 @@ generate_data_json() {
     echo "]" >> $OFILE
 }
 
-#generate_data_json
+generate_data_json
 
 
 # 4
@@ -140,4 +140,4 @@ generate_2_col_index() {
 
 TPMETADATA_A=$TPMETADATA1
 TPMETADATA_B=$TPMETADATA2
-generate_2_col_index "$TPMETADATA_A" "2025-02-09" "$TPMETADATA_B" "2025-02-10" "./sitelist.txt"
+#generate_2_col_index "$TPMETADATA_A" "2025-02-09" "$TPMETADATA_B" "2025-02-13" "./sitelist.txt"

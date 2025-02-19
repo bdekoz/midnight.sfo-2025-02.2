@@ -1,0 +1,60 @@
+https://305greenery.com/
+firefox lcp element: ""https://i0.wp.com/305greenery.com/wp-content/uploads/2025/01/Tolumnia-Jairak-Rainbow-Hybrids-JM-01-00255.jpg?resize=300%2C300&quality=89&ssl=1""
+chrome lcp element: ""<p class='woocommerce-store-notice demo_store' data-notice-id='06392cc035e7ee2b085ddd4d845ef45a' style=''></p>""
+
+https://3green.at/
+firefox lcp element: ""https://3green.at/wp-content/themes/green/img/3green-logo.svg""
+chrome lcp element: ""<span id='BorlabsCookieEntranceA11YHeadline' role='heading' aria-level='3' class='brlbs-cmpnt-dialog-entrance-headline brlbs-font-bold brlbs-inline-block brlbs-text-2xl' tabindex='0'></span>""
+
+https://3rpms-hotelsoftware.de/
+firefox lcp element: ""<h1 class='moto-text_system_4'></h1>""
+chrome lcp element: ""<div id='cookiescript_description'></div>""
+
+https://55taxi.recruithp.jp/
+firefox lcp element: ""<p></p>""
+chrome lcp element: ""https://55taxi.recruithp.jp/wp-content/uploads/2024/10/sp-top-1.webp""
+
+https://5princesapg.com/
+firefox lcp element: ""https://cdntoos.porscheslot.com/siteadmin/skin/lobby_asset/2-1-27/common/common/bg_pattern_tile.avif?manualVersion=1&version""
+chrome lcp element: ""https://cdntoos.porscheslot.com/cocos/lg/appIconSkeleton.avif""
+
+https://8sweet8.com/
+firefox lcp element: ""https://optim.tildacdn.com/tild6532-3533-4462-a362-383038356635/-/format/webp/image_30.png""
+chrome lcp element: ""https://optim.tildacdn.com/tild3666-3339-4839-b464-386331313032/-/format/webp/imagef.png""
+
+https://9writer.ru/
+firefox lcp element: ""https://static.tildacdn.com/tild6431-6566-4165-a232-386465626132/__.jpg""
+chrome lcp element: ""<div class='tn-atom' field='tn_text_1470210011265' style=''></div>""
+
+https://aetherdiamonds.com/
+firefox lcp element: ""<div class='slideshow-caption__subheading subheading-3 default-2'></div>""
+chrome lcp element: ""<div class='slideshow-caption__subheading subheading-4 default-2'></div>""
+
+https://ahmadfabrics.pk/
+firefox lcp element: ""https://ahmadfabrics.pk/cdn/shop/files/Ahmad_Fabrics_Home_Cover_1_Mob.webp?v=1727268137&width=750""
+chrome lcp element: ""https://ahmadfabrics.pk/cdn/shop/files/img39_c29d9254-a89c-49e8-9bee-f603a8b747e8.jpg?v=1737886982&width=720""
+
+https://aister.com/es/
+firefox lcp element: ""https://aister.com/wp-content/uploads/2023/05/Grupo-47@2x.png""
+chrome lcp element: ""<h1></h1>""
+
+http://www.google.com/
+firefox lcp element: ""https://www.google.com/logos/doodles/2025/lunar-new-year-simple-6753651837110717.2-l.png""
+chrome lcp element: ""https://www.google.com/logos/doodles/2025/lunar-new-year-2025-6753651837110588.3-law.gif""
+
+https://id.rok.coffee/
+firefox lcp element: ""<p class='h0'></p>""
+chrome lcp element: ""https://us.rok.coffee/cdn/shop/files/preview_images/fa7f92242cdd43138172aeb94a8a2245.thumbnail.0000000000.jpg?v=1723045025&width=1000""
+
+http://www.lnironshop.com/
+firefox lcp element: ""https://gh.lnwfile.com/_/gh/_raw/6c/zo/n4.jpg""
+chrome lcp element: ""<div style='box-sizing: border-box;'></div>""
+
+https://roadtrip.meenan.us/
+firefox lcp element: ""<h1 class='site-title'></h1>""
+chrome lcp element: ""https://roadtrip.meenan.us/wp-content/uploads/2020/08/img_6278-1024x768.jpg""
+
+http://xn--80aalfykekuw.xn--p1ai/
+firefox lcp element: ""https://xn--80aalfykekuw.xn--p1ai/upload/resize_cache/iblock/188/576_576_1/on0jg8u6q8ra0fbay1xc02g117r63msr.jpg""
+chrome lcp element: ""http://xn--80aalfykekuw.xn--p1ai/upload/resize_cache/iblock/f63/576_576_1/4ysuzala61mbqe2xd9pn3yk37x2qvmhg.jpg""
+
