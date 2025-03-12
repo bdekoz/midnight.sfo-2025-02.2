@@ -6,4 +6,5 @@
 
 - iterations: 20
 
-- variant: talkback on
+- variant: 2025-02-13 talkback on
+2025-03-06 talkback on, 30 sec interaction double tapping

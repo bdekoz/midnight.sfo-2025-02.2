@@ -66,7 +66,7 @@ generate_platform_by_sitelist() {
    done
 }
 
-generate_platform_by_sitelist "$TPMETADATA1" "2025-02-13" "./sitelist.txt"
+generate_platform_by_sitelist "$TPMETADATA1" "2025-03-06" "./sitelist.txt"
 
 # 3
 generate_data_json() {
