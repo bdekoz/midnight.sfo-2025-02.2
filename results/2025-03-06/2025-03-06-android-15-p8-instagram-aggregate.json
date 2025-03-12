@@ -1,0 +1,292 @@
+{
+  "platform": "android-15-p8",
+  "date": "2025-03-06",
+  "test": "instagram",
+  "url": "https://www.instagram.com",
+  "url_content_traits": {
+    "compression-dictionary": 0,
+    "dns-prefetch": 0,
+    "google-publisher-tag": 0,
+    "preconnect": 0,
+    "prefetch": 0,
+    "preload": 1,
+    "prerender": 0
+  },
+  "video_side_by_side": "2025-03-06-android-15-p8-instagram-side-by-side.mp4",
+  "firefox": {
+    "filmstrip_interval": 100,
+    "filmstrip": {},
+    "power": {},
+    "metrics": {
+      "fcp": {
+        "median": "424",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "largestContentfulPaintloadTime": {
+        "median": "1495",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "largestContentfulPaintrenderTime": {
+        "median": "1553",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "redirectStart": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "redirectEnd": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "fetchStart": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "domainLookupStart": {
+        "median": "36",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "connectStart": {
+        "median": "42",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "requestStart": {
+        "median": "163",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "responseStart": {
+        "median": "282",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "domInteractive": {
+        "median": "442",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "domComplete": {
+        "median": "1496",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "loadEventEnd": {
+        "median": "1496",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "A11Y_CoalesceEvents": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "A11Y_CoalesceMutationEvents": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "A11Y_ContentRemovedAcc": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "A11Y_ContentRemovedNode": {
+        "median": "1.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "A11Y_DoInitialUpdate": {
+        "median": "1.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "A11Y_ProcessQueuedCacheUpdate": {
+        "median": "7.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "A11Y_ProcessShowEvent": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "A11Y_PruneOrInsertSubtree": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "A11Y_RecvCache": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "A11Y_ShowEvent": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "A11Y_ShutdownChildrenInSubtree": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "Compositing": {
+        "median": "251.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "DisplayListBuilding": {
+        "median": "15.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "FrameBuilding": {
+        "median": "29.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "HttpChannelAsyncOpenToTransactionPending": {
+        "median": "622.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "HttpChannelCompletion": {
+        "median": "9038.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "HttpChannelCompletion_Cache": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "HttpChannelCompletion_Network": {
+        "median": "9038.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "HttpChannelResponseEndParentToContent": {
+        "median": "1168.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "HttpChannelResponseStartParentToContent": {
+        "median": "630.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "HttpTransactionWaitTime": {
+        "median": "1799.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "JSBC_Compression": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "JSBC_Decompression": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "JSBC_IO_Read": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "JSBC_IO_Write": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "LayerTransactions": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "MajorGC": {
+        "median": "2309.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "MinorGC": {
+        "median": "75.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "NonIdleMajorGC": {
+        "median": "82.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "OnDataAvailableSocketToParent": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "OnDataAvailableToContent": {
+        "median": "971.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "OnStartRequestSocketToParent": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "OnStartRequestToContent": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "OnStopRequestSocketToParent": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "OnStopRequestToContent": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "Rasterizing": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "Reflowing": {
+        "median": "9.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "ResponseEndSocketToParent": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "Styling": {
+        "median": "19.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "WrDisplayListBuilding": {
+        "median": "10.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "lcp_element": "\"\"https://static.cdninstagram.com/rsrc.php/v4/yB/r/E7m8ZCMOFDS.png\"\"",
+      "PerceptualSpeedIndexProgress": [],
+      "ContentfulSpeedIndexProgress": [],
+      "SpeedIndexProgress": []
+    }
+  }
+}
