@@ -9,7 +9,7 @@
     "google-publisher-tag": 0,
     "preconnect": 1,
     "prefetch": 0,
-    "preload": 1,
+    "preload": 0,
     "prerender": 0
   },
   "video_side_by_side": "2025-02-13-android-15-p8-reddit-side-by-side.mp4",
@@ -198,6 +198,161 @@
         "median": "15744",
         "stddev": "312.000000",
         "rsd": "2.007416"
+      },
+      "A11Y_DoInitialUpdate": {
+        "median": "2.000000",
+        "stddev": "0.589491",
+        "rsd": "24.060870"
+      },
+      "A11Y_ProcessQueuedCacheUpdate": {
+        "median": "165.000000",
+        "stddev": "15.441745",
+        "rsd": "9.418570"
+      },
+      "Compositing": {
+        "median": "907.000000",
+        "stddev": "168.433511",
+        "rsd": "17.936586"
+      },
+      "DisplayListBuilding": {
+        "median": "592.000000",
+        "stddev": "47.463117",
+        "rsd": "8.052102"
+      },
+      "FrameBuilding": {
+        "median": "193.000000",
+        "stddev": "31.845094",
+        "rsd": "16.560111"
+      },
+      "HttpChannelAsyncOpenToTransactionPending": {
+        "median": "67934.000000",
+        "stddev": "7644.131001",
+        "rsd": "11.193173"
+      },
+      "HttpChannelCompletion": {
+        "median": "112703.000000",
+        "stddev": "13318.027916",
+        "rsd": "11.457433"
+      },
+      "HttpChannelCompletion_Cache": {
+        "median": "621.000000",
+        "stddev": "347.578520",
+        "rsd": "43.357889"
+      },
+      "HttpChannelCompletion_Network": {
+        "median": "112020.000000",
+        "stddev": "13207.665825",
+        "rsd": "11.441410"
+      },
+      "HttpChannelResponseEndParentToContent": {
+        "median": "17368.000000",
+        "stddev": "5491.149018",
+        "rsd": "30.216639"
+      },
+      "HttpChannelResponseStartParentToContent": {
+        "median": "14902.000000",
+        "stddev": "4444.795620",
+        "rsd": "29.802840"
+      },
+      "HttpTransactionWaitTime": {
+        "median": "1597.000000",
+        "stddev": "522.042680",
+        "rsd": "29.937073"
+      },
+      "JSBC_Compression": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "JSBC_Decompression": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "JSBC_IO_Read": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "JSBC_IO_Write": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "LayerTransactions": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "MajorGC": {
+        "median": "510.000000",
+        "stddev": "129.662360",
+        "rsd": "23.632983"
+      },
+      "MinorGC": {
+        "median": "70.000000",
+        "stddev": "6.373971",
+        "rsd": "8.871219"
+      },
+      "NonIdleMajorGC": {
+        "median": "55.000000",
+        "stddev": "22.123743",
+        "rsd": "33.932121"
+      },
+      "OnDataAvailableSocketToParent": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "OnDataAvailableToContent": {
+        "median": "10774.000000",
+        "stddev": "6951.382365",
+        "rsd": "52.971389"
+      },
+      "OnStartRequestSocketToParent": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "OnStartRequestToContent": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "OnStopRequestSocketToParent": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "OnStopRequestToContent": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "Rasterizing": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "Reflowing": {
+        "median": "137.000000",
+        "stddev": "14.799578",
+        "rsd": "10.582465"
+      },
+      "ResponseEndSocketToParent": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "Styling": {
+        "median": "290.000000",
+        "stddev": "16.038314",
+        "rsd": "5.485997"
+      },
+      "WrDisplayListBuilding": {
+        "median": "102.000000",
+        "stddev": "18.843036",
+        "rsd": "16.945176"
       },
       "lcp_element": "\"\"https://b.thumbs.redditmedia.com/phtnPq9TfTQgbaw9g85q_BU0_0-pb0UYbwGe80rkg_A.jpg\"\"",
       "PerceptualSpeedIndexProgress": [

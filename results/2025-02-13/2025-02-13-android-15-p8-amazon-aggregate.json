@@ -199,6 +199,161 @@
         "stddev": "2456.000000",
         "rsd": "20.588605"
       },
+      "A11Y_DoInitialUpdate": {
+        "median": "5.000000",
+        "stddev": "3.144837",
+        "rsd": "51.554706"
+      },
+      "A11Y_ProcessQueuedCacheUpdate": {
+        "median": "56.000000",
+        "stddev": "65.250594",
+        "rsd": "90.125130"
+      },
+      "Compositing": {
+        "median": "1988.000000",
+        "stddev": "2195.786157",
+        "rsd": "86.263182"
+      },
+      "DisplayListBuilding": {
+        "median": "108.000000",
+        "stddev": "100.960933",
+        "rsd": "78.082701"
+      },
+      "FrameBuilding": {
+        "median": "129.000000",
+        "stddev": "117.646674",
+        "rsd": "76.097461"
+      },
+      "HttpChannelAsyncOpenToTransactionPending": {
+        "median": "4213.000000",
+        "stddev": "5381.297961",
+        "rsd": "100.051091"
+      },
+      "HttpChannelCompletion": {
+        "median": "27599.000000",
+        "stddev": "19599.473915",
+        "rsd": "59.504502"
+      },
+      "HttpChannelCompletion_Cache": {
+        "median": "0.000000",
+        "stddev": "296.654766",
+        "rsd": "198.431281"
+      },
+      "HttpChannelCompletion_Network": {
+        "median": "27599.000000",
+        "stddev": "19417.143606",
+        "rsd": "59.219642"
+      },
+      "HttpChannelResponseEndParentToContent": {
+        "median": "3068.000000",
+        "stddev": "2085.945835",
+        "rsd": "59.754668"
+      },
+      "HttpChannelResponseStartParentToContent": {
+        "median": "2558.000000",
+        "stddev": "1697.180335",
+        "rsd": "58.723931"
+      },
+      "HttpTransactionWaitTime": {
+        "median": "11553.000000",
+        "stddev": "11054.644557",
+        "rsd": "77.877580"
+      },
+      "JSBC_Compression": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "JSBC_Decompression": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "JSBC_IO_Read": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "JSBC_IO_Write": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "LayerTransactions": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "MajorGC": {
+        "median": "529.000000",
+        "stddev": "90.081130",
+        "rsd": "16.753046"
+      },
+      "MinorGC": {
+        "median": "32.000000",
+        "stddev": "9.144807",
+        "rsd": "26.016521"
+      },
+      "NonIdleMajorGC": {
+        "median": "46.000000",
+        "stddev": "19.423182",
+        "rsd": "47.143646"
+      },
+      "OnDataAvailableSocketToParent": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "OnDataAvailableToContent": {
+        "median": "1999.000000",
+        "stddev": "1451.960773",
+        "rsd": "65.543879"
+      },
+      "OnStartRequestSocketToParent": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "OnStartRequestToContent": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "OnStopRequestSocketToParent": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "OnStopRequestToContent": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "Rasterizing": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "Reflowing": {
+        "median": "50.000000",
+        "stddev": "36.007603",
+        "rsd": "60.978160"
+      },
+      "ResponseEndSocketToParent": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "Styling": {
+        "median": "95.000000",
+        "stddev": "92.324685",
+        "rsd": "78.607650"
+      },
+      "WrDisplayListBuilding": {
+        "median": "65.000000",
+        "stddev": "48.388506",
+        "rsd": "65.345720"
+      },
       "lcp_element": "\"\"https://m.media-amazon.com/images/I/61IlupYtztL._SX1500_.jpg\"\"",
       "PerceptualSpeedIndexProgress": [
         {

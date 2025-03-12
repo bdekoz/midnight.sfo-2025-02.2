@@ -5,11 +5,11 @@
   "url": "https://www.bild.de/sport/american-football/nfl/super-bowl-rekordquote-fuer-die-nfl-87139668.bild.html",
   "url_content_traits": {
     "compression-dictionary": 0,
-    "dns-prefetch": 1,
+    "dns-prefetch": 0,
     "google-publisher-tag": 0,
-    "preconnect": 1,
+    "preconnect": 0,
     "prefetch": 0,
-    "preload": 1,
+    "preload": 0,
     "prerender": 0
   },
   "video_side_by_side": "2025-02-13-android-15-p8-bild_de_super_bowl-side-by-side.mp4",
@@ -198,6 +198,161 @@
         "median": "11630",
         "stddev": "3671.000000",
         "rsd": "29.613624"
+      },
+      "A11Y_DoInitialUpdate": {
+        "median": "13.000000",
+        "stddev": "4.794528",
+        "rsd": "32.505275"
+      },
+      "A11Y_ProcessQueuedCacheUpdate": {
+        "median": "64.000000",
+        "stddev": "10.494761",
+        "rsd": "15.805362"
+      },
+      "Compositing": {
+        "median": "874.000000",
+        "stddev": "142.107169",
+        "rsd": "15.438880"
+      },
+      "DisplayListBuilding": {
+        "median": "78.000000",
+        "stddev": "10.322185",
+        "rsd": "12.814630"
+      },
+      "FrameBuilding": {
+        "median": "157.000000",
+        "stddev": "27.421524",
+        "rsd": "17.421553"
+      },
+      "HttpChannelAsyncOpenToTransactionPending": {
+        "median": "3951.000000",
+        "stddev": "546.183712",
+        "rsd": "13.444357"
+      },
+      "HttpChannelCompletion": {
+        "median": "37077.000000",
+        "stddev": "2844.704763",
+        "rsd": "7.622488"
+      },
+      "HttpChannelCompletion_Cache": {
+        "median": "1758.000000",
+        "stddev": "947.542458",
+        "rsd": "52.475077"
+      },
+      "HttpChannelCompletion_Network": {
+        "median": "35701.000000",
+        "stddev": "3138.868658",
+        "rsd": "8.838274"
+      },
+      "HttpChannelResponseEndParentToContent": {
+        "median": "2145.000000",
+        "stddev": "477.262884",
+        "rsd": "21.529361"
+      },
+      "HttpChannelResponseStartParentToContent": {
+        "median": "3586.000000",
+        "stddev": "454.334290",
+        "rsd": "12.208201"
+      },
+      "HttpTransactionWaitTime": {
+        "median": "9314.000000",
+        "stddev": "1863.435526",
+        "rsd": "20.391713"
+      },
+      "JSBC_Compression": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "JSBC_Decompression": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "JSBC_IO_Read": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "JSBC_IO_Write": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "LayerTransactions": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "MajorGC": {
+        "median": "959.000000",
+        "stddev": "114.512128",
+        "rsd": "12.113199"
+      },
+      "MinorGC": {
+        "median": "86.000000",
+        "stddev": "12.765089",
+        "rsd": "15.205586"
+      },
+      "NonIdleMajorGC": {
+        "median": "93.000000",
+        "stddev": "26.320334",
+        "rsd": "25.854945"
+      },
+      "OnDataAvailableSocketToParent": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "OnDataAvailableToContent": {
+        "median": "1910.000000",
+        "stddev": "531.499530",
+        "rsd": "27.761793"
+      },
+      "OnStartRequestSocketToParent": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "OnStartRequestToContent": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "OnStopRequestSocketToParent": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "OnStopRequestToContent": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "Rasterizing": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "Reflowing": {
+        "median": "159.000000",
+        "stddev": "37.778135",
+        "rsd": "22.060225"
+      },
+      "ResponseEndSocketToParent": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "Styling": {
+        "median": "107.000000",
+        "stddev": "9.496710",
+        "rsd": "8.854741"
+      },
+      "WrDisplayListBuilding": {
+        "median": "64.000000",
+        "stddev": "9.051381",
+        "rsd": "13.893141"
       },
       "lcp_element": "\"\"https://images.bild.de/65cb14f2475f0677d1ce0fed/ffae6892c69fd252783863935b549e78,d6f0f2d8?w=992\"\"",
       "PerceptualSpeedIndexProgress": [

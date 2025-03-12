@@ -177,6 +177,161 @@
         "stddev": "444.000000",
         "rsd": "4.970727"
       },
+      "A11Y_DoInitialUpdate": {
+        "median": "4.000000",
+        "stddev": "6.993568",
+        "rsd": "104.381619"
+      },
+      "A11Y_ProcessQueuedCacheUpdate": {
+        "median": "22.000000",
+        "stddev": "1.840516",
+        "rsd": "8.090181"
+      },
+      "Compositing": {
+        "median": "401.000000",
+        "stddev": "30.067050",
+        "rsd": "7.510191"
+      },
+      "DisplayListBuilding": {
+        "median": "45.000000",
+        "stddev": "2.906458",
+        "rsd": "6.451628"
+      },
+      "FrameBuilding": {
+        "median": "55.000000",
+        "stddev": "5.877712",
+        "rsd": "10.794696"
+      },
+      "HttpChannelAsyncOpenToTransactionPending": {
+        "median": "1077.000000",
+        "stddev": "170.373964",
+        "rsd": "15.442915"
+      },
+      "HttpChannelCompletion": {
+        "median": "12918.000000",
+        "stddev": "663.826777",
+        "rsd": "5.102866"
+      },
+      "HttpChannelCompletion_Cache": {
+        "median": "20.000000",
+        "stddev": "5.652212",
+        "rsd": "25.065241"
+      },
+      "HttpChannelCompletion_Network": {
+        "median": "12900.000000",
+        "stddev": "665.719932",
+        "rsd": "5.126305"
+      },
+      "HttpChannelResponseEndParentToContent": {
+        "median": "1080.000000",
+        "stddev": "156.487659",
+        "rsd": "14.655833"
+      },
+      "HttpChannelResponseStartParentToContent": {
+        "median": "880.000000",
+        "stddev": "163.091385",
+        "rsd": "17.785320"
+      },
+      "HttpTransactionWaitTime": {
+        "median": "4733.000000",
+        "stddev": "760.704494",
+        "rsd": "15.965590"
+      },
+      "JSBC_Compression": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "JSBC_Decompression": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "JSBC_IO_Read": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "JSBC_IO_Write": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "LayerTransactions": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "MajorGC": {
+        "median": "868.000000",
+        "stddev": "73.167616",
+        "rsd": "8.410071"
+      },
+      "MinorGC": {
+        "median": "69.000000",
+        "stddev": "10.120647",
+        "rsd": "15.184767"
+      },
+      "NonIdleMajorGC": {
+        "median": "55.000000",
+        "stddev": "27.823371",
+        "rsd": "47.642759"
+      },
+      "OnDataAvailableSocketToParent": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "OnDataAvailableToContent": {
+        "median": "1820.000000",
+        "stddev": "710.094050",
+        "rsd": "39.987276"
+      },
+      "OnStartRequestSocketToParent": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "OnStartRequestToContent": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "OnStopRequestSocketToParent": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "OnStopRequestToContent": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "Rasterizing": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "Reflowing": {
+        "median": "53.000000",
+        "stddev": "11.380246",
+        "rsd": "22.446245"
+      },
+      "ResponseEndSocketToParent": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "Styling": {
+        "median": "88.000000",
+        "stddev": "7.448993",
+        "rsd": "8.537528"
+      },
+      "WrDisplayListBuilding": {
+        "median": "27.000000",
+        "stddev": "1.739971",
+        "rsd": "6.247653"
+      },
       "lcp_element": "\"\"https://www.allrecipes.com/thmb/HoUlJ4uVESFamOu0fw_fGe1aiJk=/400x250/filters:no_upscale():max_bytes(150000):strip_icc()/1189502_Baked-Shrimp-Scampi-4x3-e9e6b5daa65b4635985fd701999b8de3.jpg\"\"",
       "PerceptualSpeedIndexProgress": [
         {

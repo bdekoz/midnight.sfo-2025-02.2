@@ -199,6 +199,161 @@
         "stddev": "746.000000",
         "rsd": "3.195388"
       },
+      "A11Y_DoInitialUpdate": {
+        "median": "19.000000",
+        "stddev": "2.939388",
+        "rsd": "15.803160"
+      },
+      "A11Y_ProcessQueuedCacheUpdate": {
+        "median": "375.000000",
+        "stddev": "175.845500",
+        "rsd": "44.248994"
+      },
+      "Compositing": {
+        "median": "4461.000000",
+        "stddev": "1476.808264",
+        "rsd": "32.698430"
+      },
+      "DisplayListBuilding": {
+        "median": "575.000000",
+        "stddev": "200.272964",
+        "rsd": "33.648011"
+      },
+      "FrameBuilding": {
+        "median": "689.000000",
+        "stddev": "218.958923",
+        "rsd": "31.133076"
+      },
+      "HttpChannelAsyncOpenToTransactionPending": {
+        "median": "7658.000000",
+        "stddev": "3931.170313",
+        "rsd": "45.202232"
+      },
+      "HttpChannelCompletion": {
+        "median": "160487.000000",
+        "stddev": "55240.737223",
+        "rsd": "33.733957"
+      },
+      "HttpChannelCompletion_Cache": {
+        "median": "2796.000000",
+        "stddev": "4096.841990",
+        "rsd": "88.793472"
+      },
+      "HttpChannelCompletion_Network": {
+        "median": "158237.000000",
+        "stddev": "54305.680249",
+        "rsd": "34.124416"
+      },
+      "HttpChannelResponseEndParentToContent": {
+        "median": "3530.000000",
+        "stddev": "1091.400985",
+        "rsd": "31.868514"
+      },
+      "HttpChannelResponseStartParentToContent": {
+        "median": "3410.000000",
+        "stddev": "1020.590741",
+        "rsd": "31.279599"
+      },
+      "HttpTransactionWaitTime": {
+        "median": "51511.000000",
+        "stddev": "20342.260838",
+        "rsd": "36.329812"
+      },
+      "JSBC_Compression": {
+        "median": "0.000000",
+        "stddev": "1.116915",
+        "rsd": "77.028648"
+      },
+      "JSBC_Decompression": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "JSBC_IO_Read": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "JSBC_IO_Write": {
+        "median": "3.000000",
+        "stddev": "6.076800",
+        "rsd": "88.712411"
+      },
+      "LayerTransactions": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "MajorGC": {
+        "median": "511.000000",
+        "stddev": "220.227859",
+        "rsd": "36.120692"
+      },
+      "MinorGC": {
+        "median": "40.000000",
+        "stddev": "7.044679",
+        "rsd": "16.517418"
+      },
+      "NonIdleMajorGC": {
+        "median": "50.000000",
+        "stddev": "22.444320",
+        "rsd": "43.203696"
+      },
+      "OnDataAvailableSocketToParent": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "OnDataAvailableToContent": {
+        "median": "1836.000000",
+        "stddev": "700.209226",
+        "rsd": "33.088046"
+      },
+      "OnStartRequestSocketToParent": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "OnStartRequestToContent": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "OnStopRequestSocketToParent": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "OnStopRequestToContent": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "Rasterizing": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "Reflowing": {
+        "median": "233.000000",
+        "stddev": "86.394792",
+        "rsd": "34.668857"
+      },
+      "ResponseEndSocketToParent": {
+        "median": "0.000000",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "Styling": {
+        "median": "399.000000",
+        "stddev": "127.350020",
+        "rsd": "31.573080"
+      },
+      "WrDisplayListBuilding": {
+        "median": "421.000000",
+        "stddev": "147.506813",
+        "rsd": "34.691160"
+      },
       "lcp_element": "\"\"https://k.sinaimg.cn/n/news/1_img/upload/6e865411/337/w2048h1489/20250214/8e8c-a8a882b91719434d96ae9cbb8ca8e813.jpg/w710h400z1l50t1q7511a.jpg?by=comos\"\"",
       "PerceptualSpeedIndexProgress": [
         {
